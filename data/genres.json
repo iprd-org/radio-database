@@ -1,0 +1,7577 @@
+{
+  "version": "1.0",
+  "generated": "2026-09-30",
+  "description": "Music and radio genres currently in use, grouped by top-level family.",
+  "categories": [
+    {
+      "id": "rock",
+      "name": "Rock",
+      "subgenres": [
+        {
+          "id": "classic-rock",
+          "name": "Classic Rock"
+        },
+        {
+          "id": "hard-rock",
+          "name": "Hard Rock"
+        },
+        {
+          "id": "soft-rock",
+          "name": "Soft Rock"
+        },
+        {
+          "id": "progressive-rock",
+          "name": "Progressive Rock"
+        },
+        {
+          "id": "psychedelic-rock",
+          "name": "Psychedelic Rock"
+        },
+        {
+          "id": "garage-rock",
+          "name": "Garage Rock"
+        },
+        {
+          "id": "glam-rock",
+          "name": "Glam Rock"
+        },
+        {
+          "id": "southern-rock",
+          "name": "Southern Rock"
+        },
+        {
+          "id": "folk-rock",
+          "name": "Folk Rock"
+        },
+        {
+          "id": "blues-rock",
+          "name": "Blues Rock"
+        },
+        {
+          "id": "art-rock",
+          "name": "Art Rock"
+        },
+        {
+          "id": "surf-rock",
+          "name": "Surf Rock"
+        },
+        {
+          "id": "rockabilly",
+          "name": "Rockabilly"
+        },
+        {
+          "id": "krautrock",
+          "name": "Krautrock"
+        },
+        {
+          "id": "stoner-rock",
+          "name": "Stoner Rock"
+        },
+        {
+          "id": "post-rock",
+          "name": "Post-Rock"
+        },
+        {
+          "id": "math-rock",
+          "name": "Math Rock"
+        },
+        {
+          "id": "space-rock",
+          "name": "Space Rock"
+        },
+        {
+          "id": "yacht-rock",
+          "name": "Yacht Rock"
+        },
+        {
+          "id": "arena-rock",
+          "name": "Arena Rock"
+        },
+        {
+          "id": "heartland-rock",
+          "name": "Heartland Rock"
+        },
+        {
+          "id": "jam-band",
+          "name": "Jam Band"
+        },
+        {
+          "id": "noise-rock",
+          "name": "Noise Rock"
+        },
+        {
+          "id": "shoegaze",
+          "name": "Shoegaze"
+        }
+      ]
+    },
+    {
+      "id": "alternative-indie",
+      "name": "Alternative & Indie",
+      "subgenres": [
+        {
+          "id": "alternative-rock",
+          "name": "Alternative Rock"
+        },
+        {
+          "id": "indie-rock",
+          "name": "Indie Rock"
+        },
+        {
+          "id": "indie-pop",
+          "name": "Indie Pop"
+        },
+        {
+          "id": "indie-folk",
+          "name": "Indie Folk"
+        },
+        {
+          "id": "britpop",
+          "name": "Britpop"
+        },
+        {
+          "id": "grunge",
+          "name": "Grunge"
+        },
+        {
+          "id": "post-punk",
+          "name": "Post-Punk"
+        },
+        {
+          "id": "new-wave",
+          "name": "New Wave"
+        },
+        {
+          "id": "gothic-rock",
+          "name": "Gothic Rock"
+        },
+        {
+          "id": "dream-pop",
+          "name": "Dream Pop"
+        },
+        {
+          "id": "lo-fi",
+          "name": "Lo-fi"
+        },
+        {
+          "id": "emo",
+          "name": "Emo"
+        },
+        {
+          "id": "midwest-emo",
+          "name": "Midwest Emo"
+        },
+        {
+          "id": "math-pop",
+          "name": "Math Pop"
+        },
+        {
+          "id": "jangle-pop",
+          "name": "Jangle Pop"
+        },
+        {
+          "id": "darkwave",
+          "name": "Darkwave"
+        },
+        {
+          "id": "coldwave",
+          "name": "Coldwave"
+        },
+        {
+          "id": "synth-punk",
+          "name": "Synth-Punk"
+        },
+        {
+          "id": "bedroom-pop",
+          "name": "Bedroom Pop"
+        },
+        {
+          "id": "chamber-pop",
+          "name": "Chamber Pop"
+        },
+        {
+          "id": "slowcore",
+          "name": "Slowcore"
+        },
+        {
+          "id": "twee-pop",
+          "name": "Twee Pop"
+        }
+      ]
+    },
+    {
+      "id": "punk",
+      "name": "Punk",
+      "subgenres": [
+        {
+          "id": "punk-rock",
+          "name": "Punk Rock"
+        },
+        {
+          "id": "hardcore-punk",
+          "name": "Hardcore Punk"
+        },
+        {
+          "id": "pop-punk",
+          "name": "Pop Punk"
+        },
+        {
+          "id": "skate-punk",
+          "name": "Skate Punk"
+        },
+        {
+          "id": "oi",
+          "name": "Oi!"
+        },
+        {
+          "id": "street-punk",
+          "name": "Street Punk"
+        },
+        {
+          "id": "anarcho-punk",
+          "name": "Anarcho-Punk"
+        },
+        {
+          "id": "crust-punk",
+          "name": "Crust Punk"
+        },
+        {
+          "id": "ska-punk",
+          "name": "Ska Punk"
+        },
+        {
+          "id": "folk-punk",
+          "name": "Folk Punk"
+        },
+        {
+          "id": "celtic-punk",
+          "name": "Celtic Punk"
+        },
+        {
+          "id": "queercore",
+          "name": "Queercore"
+        },
+        {
+          "id": "riot-grrrl",
+          "name": "Riot Grrrl"
+        },
+        {
+          "id": "post-hardcore",
+          "name": "Post-Hardcore"
+        },
+        {
+          "id": "screamo",
+          "name": "Screamo"
+        },
+        {
+          "id": "melodic-hardcore",
+          "name": "Melodic Hardcore"
+        },
+        {
+          "id": "garage-punk",
+          "name": "Garage Punk"
+        }
+      ]
+    },
+    {
+      "id": "metal",
+      "name": "Metal",
+      "subgenres": [
+        {
+          "id": "heavy-metal",
+          "name": "Heavy Metal"
+        },
+        {
+          "id": "thrash-metal",
+          "name": "Thrash Metal"
+        },
+        {
+          "id": "death-metal",
+          "name": "Death Metal"
+        },
+        {
+          "id": "black-metal",
+          "name": "Black Metal"
+        },
+        {
+          "id": "doom-metal",
+          "name": "Doom Metal"
+        },
+        {
+          "id": "power-metal",
+          "name": "Power Metal"
+        },
+        {
+          "id": "symphonic-metal",
+          "name": "Symphonic Metal"
+        },
+        {
+          "id": "progressive-metal",
+          "name": "Progressive Metal"
+        },
+        {
+          "id": "nu-metal",
+          "name": "Nu Metal"
+        },
+        {
+          "id": "metalcore",
+          "name": "Metalcore"
+        },
+        {
+          "id": "deathcore",
+          "name": "Deathcore"
+        },
+        {
+          "id": "groove-metal",
+          "name": "Groove Metal"
+        },
+        {
+          "id": "industrial-metal",
+          "name": "Industrial Metal"
+        },
+        {
+          "id": "folk-metal",
+          "name": "Folk Metal"
+        },
+        {
+          "id": "viking-metal",
+          "name": "Viking Metal"
+        },
+        {
+          "id": "gothic-metal",
+          "name": "Gothic Metal"
+        },
+        {
+          "id": "sludge-metal",
+          "name": "Sludge Metal"
+        },
+        {
+          "id": "stoner-metal",
+          "name": "Stoner Metal"
+        },
+        {
+          "id": "speed-metal",
+          "name": "Speed Metal"
+        },
+        {
+          "id": "djent",
+          "name": "Djent"
+        },
+        {
+          "id": "glam-metal",
+          "name": "Glam Metal"
+        },
+        {
+          "id": "melodic-death-metal",
+          "name": "Melodic Death Metal"
+        },
+        {
+          "id": "technical-death-metal",
+          "name": "Technical Death Metal"
+        },
+        {
+          "id": "grindcore",
+          "name": "Grindcore"
+        },
+        {
+          "id": "post-metal",
+          "name": "Post-Metal"
+        },
+        {
+          "id": "drone-metal",
+          "name": "Drone Metal"
+        },
+        {
+          "id": "pirate-metal",
+          "name": "Pirate Metal"
+        },
+        {
+          "id": "neoclassical-metal",
+          "name": "Neoclassical Metal"
+        },
+        {
+          "id": "symphonic-black-metal",
+          "name": "Symphonic Black Metal"
+        },
+        {
+          "id": "atmospheric-black-metal",
+          "name": "Atmospheric Black Metal"
+        },
+        {
+          "id": "funeral-doom",
+          "name": "Funeral Doom"
+        },
+        {
+          "id": "industrial-rock",
+          "name": "Industrial Rock"
+        }
+      ]
+    },
+    {
+      "id": "pop",
+      "name": "Pop",
+      "subgenres": [
+        {
+          "id": "pop-rock",
+          "name": "Pop Rock"
+        },
+        {
+          "id": "synth-pop",
+          "name": "Synth-Pop"
+        },
+        {
+          "id": "electropop",
+          "name": "Electropop"
+        },
+        {
+          "id": "dance-pop",
+          "name": "Dance-Pop"
+        },
+        {
+          "id": "teen-pop",
+          "name": "Teen Pop"
+        },
+        {
+          "id": "power-pop",
+          "name": "Power Pop"
+        },
+        {
+          "id": "art-pop",
+          "name": "Art Pop"
+        },
+        {
+          "id": "dream-pop",
+          "name": "Dream Pop"
+        },
+        {
+          "id": "sophisti-pop",
+          "name": "Sophisti-Pop"
+        },
+        {
+          "id": "europop",
+          "name": "Europop"
+        },
+        {
+          "id": "bubblegum-pop",
+          "name": "Bubblegum Pop"
+        },
+        {
+          "id": "baroque-pop",
+          "name": "Baroque Pop"
+        },
+        {
+          "id": "hyperpop",
+          "name": "Hyperpop"
+        },
+        {
+          "id": "pop-soul",
+          "name": "Pop Soul"
+        },
+        {
+          "id": "adult-contemporary",
+          "name": "Adult Contemporary"
+        },
+        {
+          "id": "soft-pop",
+          "name": "Soft Pop"
+        },
+        {
+          "id": "sunshine-pop",
+          "name": "Sunshine Pop"
+        },
+        {
+          "id": "k-pop",
+          "name": "K-Pop"
+        },
+        {
+          "id": "j-pop",
+          "name": "J-Pop"
+        },
+        {
+          "id": "c-pop",
+          "name": "C-Pop"
+        },
+        {
+          "id": "mandopop",
+          "name": "Mandopop"
+        },
+        {
+          "id": "cantopop",
+          "name": "Cantopop"
+        },
+        {
+          "id": "latin-pop",
+          "name": "Latin Pop"
+        },
+        {
+          "id": "schlager",
+          "name": "Schlager"
+        },
+        {
+          "id": "chanson",
+          "name": "Chanson"
+        },
+        {
+          "id": "variete-francaise",
+          "name": "Variété Française"
+        },
+        {
+          "id": "italo-pop",
+          "name": "Italo Pop"
+        },
+        {
+          "id": "bollywood-pop",
+          "name": "Bollywood Pop"
+        },
+        {
+          "id": "indie-pop",
+          "name": "Indie Pop"
+        },
+        {
+          "id": "future-pop",
+          "name": "Future Pop"
+        },
+        {
+          "id": "tropical-pop",
+          "name": "Tropical Pop"
+        },
+        {
+          "id": "kawaii-future-bass",
+          "name": "Kawaii Future Bass"
+        },
+        {
+          "id": "city-pop",
+          "name": "City Pop"
+        },
+        {
+          "id": "eurodance",
+          "name": "Eurodance"
+        },
+        {
+          "id": "country-pop",
+          "name": "Country Pop"
+        },
+        {
+          "id": "dark-pop",
+          "name": "Dark Pop"
+        },
+        {
+          "id": "alt-pop",
+          "name": "Alt-Pop"
+        },
+        {
+          "id": "bedroom-pop",
+          "name": "Bedroom Pop"
+        }
+      ]
+    },
+    {
+      "id": "hip-hop-rap",
+      "name": "Hip-Hop & Rap",
+      "subgenres": [
+        {
+          "id": "old-school-hip-hop",
+          "name": "Old School Hip-Hop"
+        },
+        {
+          "id": "golden-age-hip-hop",
+          "name": "Golden Age Hip-Hop"
+        },
+        {
+          "id": "boom-bap",
+          "name": "Boom Bap"
+        },
+        {
+          "id": "east-coast-hip-hop",
+          "name": "East Coast Hip-Hop"
+        },
+        {
+          "id": "west-coast-hip-hop",
+          "name": "West Coast Hip-Hop"
+        },
+        {
+          "id": "southern-hip-hop",
+          "name": "Southern Hip-Hop"
+        },
+        {
+          "id": "dirty-south",
+          "name": "Dirty South"
+        },
+        {
+          "id": "trap",
+          "name": "Trap"
+        },
+        {
+          "id": "drill",
+          "name": "Drill"
+        },
+        {
+          "id": "uk-drill",
+          "name": "UK Drill"
+        },
+        {
+          "id": "brooklyn-drill",
+          "name": "Brooklyn Drill"
+        },
+        {
+          "id": "chicago-drill",
+          "name": "Chicago Drill"
+        },
+        {
+          "id": "gangsta-rap",
+          "name": "Gangsta Rap"
+        },
+        {
+          "id": "g-funk",
+          "name": "G-Funk"
+        },
+        {
+          "id": "conscious-hip-hop",
+          "name": "Conscious Hip-Hop"
+        },
+        {
+          "id": "alternative-hip-hop",
+          "name": "Alternative Hip-Hop"
+        },
+        {
+          "id": "abstract-hip-hop",
+          "name": "Abstract Hip-Hop"
+        },
+        {
+          "id": "jazz-rap",
+          "name": "Jazz Rap"
+        },
+        {
+          "id": "cloud-rap",
+          "name": "Cloud Rap"
+        },
+        {
+          "id": "emo-rap",
+          "name": "Emo Rap"
+        },
+        {
+          "id": "mumble-rap",
+          "name": "Mumble Rap"
+        },
+        {
+          "id": "crunk",
+          "name": "Crunk"
+        },
+        {
+          "id": "hyphy",
+          "name": "Hyphy"
+        },
+        {
+          "id": "horrorcore",
+          "name": "Horrorcore"
+        },
+        {
+          "id": "nerdcore",
+          "name": "Nerdcore"
+        },
+        {
+          "id": "political-hip-hop",
+          "name": "Political Hip-Hop"
+        },
+        {
+          "id": "grime",
+          "name": "Grime"
+        },
+        {
+          "id": "uk-hip-hop",
+          "name": "UK Hip-Hop"
+        },
+        {
+          "id": "french-rap",
+          "name": "French Rap"
+        },
+        {
+          "id": "german-rap",
+          "name": "German Rap"
+        },
+        {
+          "id": "latin-trap",
+          "name": "Latin Trap"
+        },
+        {
+          "id": "reggaeton-rap",
+          "name": "Reggaeton Rap"
+        },
+        {
+          "id": "phonk",
+          "name": "Phonk"
+        },
+        {
+          "id": "plugg",
+          "name": "Plugg"
+        },
+        {
+          "id": "rage",
+          "name": "Rage"
+        },
+        {
+          "id": "christian-hip-hop",
+          "name": "Christian Hip-Hop"
+        },
+        {
+          "id": "turntablism",
+          "name": "Turntablism"
+        },
+        {
+          "id": "instrumental-hip-hop",
+          "name": "Instrumental Hip-Hop"
+        },
+        {
+          "id": "lo-fi-hip-hop",
+          "name": "Lo-fi Hip-Hop"
+        },
+        {
+          "id": "afroswing",
+          "name": "Afroswing"
+        },
+        {
+          "id": "afro-trap",
+          "name": "Afro Trap"
+        },
+        {
+          "id": "mafioso-rap",
+          "name": "Mafioso Rap"
+        },
+        {
+          "id": "gangsta-funk",
+          "name": "Gangsta Funk"
+        },
+        {
+          "id": "bounce",
+          "name": "Bounce"
+        },
+        {
+          "id": "memphis-rap",
+          "name": "Memphis Rap"
+        },
+        {
+          "id": "miami-bass",
+          "name": "Miami Bass"
+        },
+        {
+          "id": "snap",
+          "name": "Snap"
+        },
+        {
+          "id": "pop-rap",
+          "name": "Pop Rap"
+        },
+        {
+          "id": "afro-drill",
+          "name": "Afro Drill"
+        }
+      ]
+    },
+    {
+      "id": "r-b-soul",
+      "name": "R&B & Soul",
+      "subgenres": [
+        {
+          "id": "contemporary-r-b",
+          "name": "Contemporary R&B"
+        },
+        {
+          "id": "alternative-r-b",
+          "name": "Alternative R&B"
+        },
+        {
+          "id": "neo-soul",
+          "name": "Neo-Soul"
+        },
+        {
+          "id": "classic-soul",
+          "name": "Classic Soul"
+        },
+        {
+          "id": "motown",
+          "name": "Motown"
+        },
+        {
+          "id": "northern-soul",
+          "name": "Northern Soul"
+        },
+        {
+          "id": "southern-soul",
+          "name": "Southern Soul"
+        },
+        {
+          "id": "deep-soul",
+          "name": "Deep Soul"
+        },
+        {
+          "id": "blue-eyed-soul",
+          "name": "Blue-Eyed Soul"
+        },
+        {
+          "id": "quiet-storm",
+          "name": "Quiet Storm"
+        },
+        {
+          "id": "new-jack-swing",
+          "name": "New Jack Swing"
+        },
+        {
+          "id": "funk",
+          "name": "Funk"
+        },
+        {
+          "id": "p-funk",
+          "name": "P-Funk"
+        },
+        {
+          "id": "disco",
+          "name": "Disco"
+        },
+        {
+          "id": "philly-soul",
+          "name": "Philly Soul"
+        },
+        {
+          "id": "psychedelic-soul",
+          "name": "Psychedelic Soul"
+        },
+        {
+          "id": "smooth-soul",
+          "name": "Smooth Soul"
+        },
+        {
+          "id": "afro-soul",
+          "name": "Afro-Soul"
+        },
+        {
+          "id": "uk-soul",
+          "name": "UK Soul"
+        },
+        {
+          "id": "trap-soul",
+          "name": "Trap Soul"
+        },
+        {
+          "id": "pbr-b",
+          "name": "PBR&B"
+        },
+        {
+          "id": "gospel-r-b",
+          "name": "Gospel R&B"
+        },
+        {
+          "id": "electro-funk",
+          "name": "Electro-Funk"
+        },
+        {
+          "id": "boogie",
+          "name": "Boogie"
+        },
+        {
+          "id": "soul-jazz",
+          "name": "Soul Jazz"
+        },
+        {
+          "id": "retro-soul",
+          "name": "Retro Soul"
+        }
+      ]
+    },
+    {
+      "id": "electronic",
+      "name": "Electronic",
+      "subgenres": [
+        {
+          "id": "house",
+          "name": "House"
+        },
+        {
+          "id": "deep-house",
+          "name": "Deep House"
+        },
+        {
+          "id": "tech-house",
+          "name": "Tech House"
+        },
+        {
+          "id": "progressive-house",
+          "name": "Progressive House"
+        },
+        {
+          "id": "acid-house",
+          "name": "Acid House"
+        },
+        {
+          "id": "chicago-house",
+          "name": "Chicago House"
+        },
+        {
+          "id": "electro-house",
+          "name": "Electro House"
+        },
+        {
+          "id": "future-house",
+          "name": "Future House"
+        },
+        {
+          "id": "tropical-house",
+          "name": "Tropical House"
+        },
+        {
+          "id": "afro-house",
+          "name": "Afro House"
+        },
+        {
+          "id": "melodic-house",
+          "name": "Melodic House"
+        },
+        {
+          "id": "minimal-house",
+          "name": "Minimal House"
+        },
+        {
+          "id": "funky-house",
+          "name": "Funky House"
+        },
+        {
+          "id": "french-house",
+          "name": "French House"
+        },
+        {
+          "id": "tribal-house",
+          "name": "Tribal House"
+        },
+        {
+          "id": "soulful-house",
+          "name": "Soulful House"
+        },
+        {
+          "id": "garage-house",
+          "name": "Garage House"
+        },
+        {
+          "id": "hard-house",
+          "name": "Hard House"
+        },
+        {
+          "id": "techno",
+          "name": "Techno"
+        },
+        {
+          "id": "detroit-techno",
+          "name": "Detroit Techno"
+        },
+        {
+          "id": "minimal-techno",
+          "name": "Minimal Techno"
+        },
+        {
+          "id": "acid-techno",
+          "name": "Acid Techno"
+        },
+        {
+          "id": "hard-techno",
+          "name": "Hard Techno"
+        },
+        {
+          "id": "industrial-techno",
+          "name": "Industrial Techno"
+        },
+        {
+          "id": "melodic-techno",
+          "name": "Melodic Techno"
+        },
+        {
+          "id": "dub-techno",
+          "name": "Dub Techno"
+        },
+        {
+          "id": "trance",
+          "name": "Trance"
+        },
+        {
+          "id": "progressive-trance",
+          "name": "Progressive Trance"
+        },
+        {
+          "id": "psytrance",
+          "name": "Psytrance"
+        },
+        {
+          "id": "goa-trance",
+          "name": "Goa Trance"
+        },
+        {
+          "id": "uplifting-trance",
+          "name": "Uplifting Trance"
+        },
+        {
+          "id": "vocal-trance",
+          "name": "Vocal Trance"
+        },
+        {
+          "id": "tech-trance",
+          "name": "Tech Trance"
+        },
+        {
+          "id": "hard-trance",
+          "name": "Hard Trance"
+        },
+        {
+          "id": "dance",
+          "name": "Dance"
+        },
+        {
+          "id": "eurodance",
+          "name": "Eurodance"
+        },
+        {
+          "id": "italo-disco",
+          "name": "Italo Disco"
+        },
+        {
+          "id": "hi-nrg",
+          "name": "Hi-NRG"
+        },
+        {
+          "id": "drum-and-bass",
+          "name": "Drum and Bass"
+        },
+        {
+          "id": "liquid-drum-and-bass",
+          "name": "Liquid Drum and Bass"
+        },
+        {
+          "id": "neurofunk",
+          "name": "Neurofunk"
+        },
+        {
+          "id": "jungle",
+          "name": "Jungle"
+        },
+        {
+          "id": "jump-up",
+          "name": "Jump-Up"
+        },
+        {
+          "id": "darkstep",
+          "name": "Darkstep"
+        },
+        {
+          "id": "breakbeat",
+          "name": "Breakbeat"
+        },
+        {
+          "id": "big-beat",
+          "name": "Big Beat"
+        },
+        {
+          "id": "breakcore",
+          "name": "Breakcore"
+        },
+        {
+          "id": "uk-garage",
+          "name": "UK Garage"
+        },
+        {
+          "id": "2-step",
+          "name": "2-Step"
+        },
+        {
+          "id": "speed-garage",
+          "name": "Speed Garage"
+        },
+        {
+          "id": "bassline",
+          "name": "Bassline"
+        },
+        {
+          "id": "dubstep",
+          "name": "Dubstep"
+        },
+        {
+          "id": "brostep",
+          "name": "Brostep"
+        },
+        {
+          "id": "riddim",
+          "name": "Riddim"
+        },
+        {
+          "id": "future-garage",
+          "name": "Future Garage"
+        },
+        {
+          "id": "brazilian-phonk",
+          "name": "Brazilian Phonk"
+        },
+        {
+          "id": "hardstyle",
+          "name": "Hardstyle"
+        },
+        {
+          "id": "hardcore",
+          "name": "Hardcore"
+        },
+        {
+          "id": "gabber",
+          "name": "Gabber"
+        },
+        {
+          "id": "happy-hardcore",
+          "name": "Happy Hardcore"
+        },
+        {
+          "id": "frenchcore",
+          "name": "Frenchcore"
+        },
+        {
+          "id": "uptempo-hardcore",
+          "name": "Uptempo Hardcore"
+        },
+        {
+          "id": "terrorcore",
+          "name": "Terrorcore"
+        },
+        {
+          "id": "makina",
+          "name": "Makina"
+        },
+        {
+          "id": "electro",
+          "name": "Electro"
+        },
+        {
+          "id": "electroclash",
+          "name": "Electroclash"
+        },
+        {
+          "id": "synthwave",
+          "name": "Synthwave"
+        },
+        {
+          "id": "retrowave",
+          "name": "Retrowave"
+        },
+        {
+          "id": "outrun",
+          "name": "Outrun"
+        },
+        {
+          "id": "darksynth",
+          "name": "Darksynth"
+        },
+        {
+          "id": "vaporwave",
+          "name": "Vaporwave"
+        },
+        {
+          "id": "future-funk",
+          "name": "Future Funk"
+        },
+        {
+          "id": "ambient",
+          "name": "Ambient"
+        },
+        {
+          "id": "dark-ambient",
+          "name": "Dark Ambient"
+        },
+        {
+          "id": "drone",
+          "name": "Drone"
+        },
+        {
+          "id": "idm",
+          "name": "IDM"
+        },
+        {
+          "id": "glitch",
+          "name": "Glitch"
+        },
+        {
+          "id": "downtempo",
+          "name": "Downtempo"
+        },
+        {
+          "id": "trip-hop",
+          "name": "Trip-Hop"
+        },
+        {
+          "id": "chillout",
+          "name": "Chillout"
+        },
+        {
+          "id": "lounge",
+          "name": "Lounge"
+        },
+        {
+          "id": "chillwave",
+          "name": "Chillwave"
+        },
+        {
+          "id": "nu-jazz",
+          "name": "Nu Jazz"
+        },
+        {
+          "id": "electro-swing",
+          "name": "Electro Swing"
+        },
+        {
+          "id": "industrial",
+          "name": "Industrial"
+        },
+        {
+          "id": "ebm",
+          "name": "EBM"
+        },
+        {
+          "id": "aggrotech",
+          "name": "Aggrotech"
+        },
+        {
+          "id": "futurepop",
+          "name": "Futurepop"
+        },
+        {
+          "id": "bass-music",
+          "name": "Bass Music"
+        },
+        {
+          "id": "trap-edm",
+          "name": "Trap EDM"
+        },
+        {
+          "id": "future-bass",
+          "name": "Future Bass"
+        },
+        {
+          "id": "moombahton",
+          "name": "Moombahton"
+        },
+        {
+          "id": "kuduro",
+          "name": "Kuduro"
+        },
+        {
+          "id": "baile-funk",
+          "name": "Baile Funk"
+        },
+        {
+          "id": "amapiano",
+          "name": "Amapiano"
+        },
+        {
+          "id": "gqom",
+          "name": "Gqom"
+        },
+        {
+          "id": "afrobeats-electronic",
+          "name": "Afrobeats Electronic"
+        },
+        {
+          "id": "footwork",
+          "name": "Footwork"
+        },
+        {
+          "id": "juke",
+          "name": "Juke"
+        },
+        {
+          "id": "ghettotech",
+          "name": "Ghettotech"
+        },
+        {
+          "id": "hardwave",
+          "name": "Hardwave"
+        },
+        {
+          "id": "nu-disco",
+          "name": "Nu-Disco"
+        },
+        {
+          "id": "balearic-beat",
+          "name": "Balearic Beat"
+        },
+        {
+          "id": "deconstructed-club",
+          "name": "Deconstructed Club"
+        },
+        {
+          "id": "hyperpop",
+          "name": "Hyperpop"
+        },
+        {
+          "id": "eurobeat",
+          "name": "Eurobeat"
+        },
+        {
+          "id": "bouncy-techno",
+          "name": "Bouncy Techno"
+        },
+        {
+          "id": "schranz",
+          "name": "Schranz"
+        },
+        {
+          "id": "acid-jazz",
+          "name": "Acid Jazz"
+        },
+        {
+          "id": "psybient",
+          "name": "Psybient"
+        },
+        {
+          "id": "organic-house",
+          "name": "Organic House"
+        },
+        {
+          "id": "indie-dance",
+          "name": "Indie Dance"
+        },
+        {
+          "id": "complextro",
+          "name": "Complextro"
+        },
+        {
+          "id": "mashup",
+          "name": "Mashup"
+        },
+        {
+          "id": "big-room-house",
+          "name": "Big Room House"
+        },
+        {
+          "id": "progressive-breaks",
+          "name": "Progressive Breaks"
+        },
+        {
+          "id": "nu-skool-breaks",
+          "name": "Nu Skool Breaks"
+        },
+        {
+          "id": "leftfield",
+          "name": "Leftfield"
+        },
+        {
+          "id": "experimental-electronic",
+          "name": "Experimental Electronic"
+        },
+        {
+          "id": "power-noise",
+          "name": "Power Noise"
+        },
+        {
+          "id": "harsh-noise",
+          "name": "Harsh Noise"
+        },
+        {
+          "id": "dungeon-synth",
+          "name": "Dungeon Synth"
+        },
+        {
+          "id": "minimal-wave",
+          "name": "Minimal Wave"
+        },
+        {
+          "id": "cold-wave",
+          "name": "Cold Wave"
+        },
+        {
+          "id": "italo-house",
+          "name": "Italo House"
+        },
+        {
+          "id": "lo-fi-house",
+          "name": "Lo-fi House"
+        },
+        {
+          "id": "tropical-bass",
+          "name": "Tropical Bass"
+        },
+        {
+          "id": "afro-tech",
+          "name": "Afro Tech"
+        },
+        {
+          "id": "kwaito",
+          "name": "Kwaito"
+        },
+        {
+          "id": "trap-metal",
+          "name": "Trap Metal"
+        },
+        {
+          "id": "hard-dance",
+          "name": "Hard Dance"
+        },
+        {
+          "id": "jumpstyle",
+          "name": "Jumpstyle"
+        },
+        {
+          "id": "tekno",
+          "name": "Tekno"
+        },
+        {
+          "id": "trance-rock",
+          "name": "Trance Rock"
+        }
+      ]
+    },
+    {
+      "id": "jazz",
+      "name": "Jazz",
+      "subgenres": [
+        {
+          "id": "traditional-jazz",
+          "name": "Traditional Jazz"
+        },
+        {
+          "id": "dixieland",
+          "name": "Dixieland"
+        },
+        {
+          "id": "swing",
+          "name": "Swing"
+        },
+        {
+          "id": "big-band",
+          "name": "Big Band"
+        },
+        {
+          "id": "bebop",
+          "name": "Bebop"
+        },
+        {
+          "id": "cool-jazz",
+          "name": "Cool Jazz"
+        },
+        {
+          "id": "hard-bop",
+          "name": "Hard Bop"
+        },
+        {
+          "id": "modal-jazz",
+          "name": "Modal Jazz"
+        },
+        {
+          "id": "free-jazz",
+          "name": "Free Jazz"
+        },
+        {
+          "id": "avant-garde-jazz",
+          "name": "Avant-Garde Jazz"
+        },
+        {
+          "id": "fusion",
+          "name": "Fusion"
+        },
+        {
+          "id": "jazz-funk",
+          "name": "Jazz Funk"
+        },
+        {
+          "id": "smooth-jazz",
+          "name": "Smooth Jazz"
+        },
+        {
+          "id": "latin-jazz",
+          "name": "Latin Jazz"
+        },
+        {
+          "id": "afro-cuban-jazz",
+          "name": "Afro-Cuban Jazz"
+        },
+        {
+          "id": "bossa-nova-jazz",
+          "name": "Bossa Nova Jazz"
+        },
+        {
+          "id": "gypsy-jazz",
+          "name": "Gypsy Jazz"
+        },
+        {
+          "id": "manouche",
+          "name": "Manouche"
+        },
+        {
+          "id": "vocal-jazz",
+          "name": "Vocal Jazz"
+        },
+        {
+          "id": "soul-jazz",
+          "name": "Soul Jazz"
+        },
+        {
+          "id": "acid-jazz",
+          "name": "Acid Jazz"
+        },
+        {
+          "id": "nu-jazz",
+          "name": "Nu Jazz"
+        },
+        {
+          "id": "contemporary-jazz",
+          "name": "Contemporary Jazz"
+        },
+        {
+          "id": "post-bop",
+          "name": "Post-Bop"
+        },
+        {
+          "id": "chamber-jazz",
+          "name": "Chamber Jazz"
+        },
+        {
+          "id": "third-stream",
+          "name": "Third Stream"
+        },
+        {
+          "id": "jazz-rap",
+          "name": "Jazz Rap"
+        },
+        {
+          "id": "ethio-jazz",
+          "name": "Ethio-Jazz"
+        },
+        {
+          "id": "spiritual-jazz",
+          "name": "Spiritual Jazz"
+        },
+        {
+          "id": "crossover-jazz",
+          "name": "Crossover Jazz"
+        },
+        {
+          "id": "stride",
+          "name": "Stride"
+        },
+        {
+          "id": "ragtime",
+          "name": "Ragtime"
+        },
+        {
+          "id": "jazz-blues",
+          "name": "Jazz Blues"
+        },
+        {
+          "id": "jazz-pop",
+          "name": "Jazz Pop"
+        },
+        {
+          "id": "electro-swing",
+          "name": "Electro Swing"
+        },
+        {
+          "id": "modern-creative",
+          "name": "Modern Creative"
+        },
+        {
+          "id": "jazz-rock",
+          "name": "Jazz-Rock"
+        },
+        {
+          "id": "m-base",
+          "name": "M-Base"
+        },
+        {
+          "id": "kansas-city-jazz",
+          "name": "Kansas City Jazz"
+        },
+        {
+          "id": "west-coast-jazz",
+          "name": "West Coast Jazz"
+        },
+        {
+          "id": "bossa-nova",
+          "name": "Bossa Nova"
+        }
+      ]
+    },
+    {
+      "id": "blues",
+      "name": "Blues",
+      "subgenres": [
+        {
+          "id": "delta-blues",
+          "name": "Delta Blues"
+        },
+        {
+          "id": "chicago-blues",
+          "name": "Chicago Blues"
+        },
+        {
+          "id": "texas-blues",
+          "name": "Texas Blues"
+        },
+        {
+          "id": "piedmont-blues",
+          "name": "Piedmont Blues"
+        },
+        {
+          "id": "electric-blues",
+          "name": "Electric Blues"
+        },
+        {
+          "id": "acoustic-blues",
+          "name": "Acoustic Blues"
+        },
+        {
+          "id": "country-blues",
+          "name": "Country Blues"
+        },
+        {
+          "id": "jump-blues",
+          "name": "Jump Blues"
+        },
+        {
+          "id": "british-blues",
+          "name": "British Blues"
+        },
+        {
+          "id": "blues-rock",
+          "name": "Blues Rock"
+        },
+        {
+          "id": "soul-blues",
+          "name": "Soul Blues"
+        },
+        {
+          "id": "swamp-blues",
+          "name": "Swamp Blues"
+        },
+        {
+          "id": "hill-country-blues",
+          "name": "Hill Country Blues"
+        },
+        {
+          "id": "boogie-woogie",
+          "name": "Boogie-Woogie"
+        },
+        {
+          "id": "classic-female-blues",
+          "name": "Classic Female Blues"
+        },
+        {
+          "id": "memphis-blues",
+          "name": "Memphis Blues"
+        },
+        {
+          "id": "louisiana-blues",
+          "name": "Louisiana Blues"
+        },
+        {
+          "id": "modern-blues",
+          "name": "Modern Blues"
+        },
+        {
+          "id": "contemporary-blues",
+          "name": "Contemporary Blues"
+        },
+        {
+          "id": "desert-blues",
+          "name": "Desert Blues"
+        },
+        {
+          "id": "punk-blues",
+          "name": "Punk Blues"
+        },
+        {
+          "id": "gospel-blues",
+          "name": "Gospel Blues"
+        },
+        {
+          "id": "rhythm-and-blues",
+          "name": "Rhythm and Blues"
+        },
+        {
+          "id": "zydeco",
+          "name": "Zydeco"
+        }
+      ]
+    },
+    {
+      "id": "country-americana",
+      "name": "Country & Americana",
+      "subgenres": [
+        {
+          "id": "traditional-country",
+          "name": "Traditional Country"
+        },
+        {
+          "id": "classic-country",
+          "name": "Classic Country"
+        },
+        {
+          "id": "outlaw-country",
+          "name": "Outlaw Country"
+        },
+        {
+          "id": "honky-tonk",
+          "name": "Honky Tonk"
+        },
+        {
+          "id": "bakersfield-sound",
+          "name": "Bakersfield Sound"
+        },
+        {
+          "id": "nashville-sound",
+          "name": "Nashville Sound"
+        },
+        {
+          "id": "countrypolitan",
+          "name": "Countrypolitan"
+        },
+        {
+          "id": "country-pop",
+          "name": "Country Pop"
+        },
+        {
+          "id": "country-rock",
+          "name": "Country Rock"
+        },
+        {
+          "id": "alt-country",
+          "name": "Alt-Country"
+        },
+        {
+          "id": "americana",
+          "name": "Americana"
+        },
+        {
+          "id": "red-dirt",
+          "name": "Red Dirt"
+        },
+        {
+          "id": "texas-country",
+          "name": "Texas Country"
+        },
+        {
+          "id": "bro-country",
+          "name": "Bro-Country"
+        },
+        {
+          "id": "neo-traditional-country",
+          "name": "Neo-Traditional Country"
+        },
+        {
+          "id": "contemporary-country",
+          "name": "Contemporary Country"
+        },
+        {
+          "id": "country-soul",
+          "name": "Country Soul"
+        },
+        {
+          "id": "western-swing",
+          "name": "Western Swing"
+        },
+        {
+          "id": "cowboy",
+          "name": "Cowboy"
+        },
+        {
+          "id": "country-gospel",
+          "name": "Country Gospel"
+        },
+        {
+          "id": "bluegrass",
+          "name": "Bluegrass"
+        },
+        {
+          "id": "progressive-bluegrass",
+          "name": "Progressive Bluegrass"
+        },
+        {
+          "id": "newgrass",
+          "name": "Newgrass"
+        },
+        {
+          "id": "old-time",
+          "name": "Old-Time"
+        },
+        {
+          "id": "appalachian-folk",
+          "name": "Appalachian Folk"
+        },
+        {
+          "id": "cajun",
+          "name": "Cajun"
+        },
+        {
+          "id": "zydeco",
+          "name": "Zydeco"
+        },
+        {
+          "id": "tejano",
+          "name": "Tejano"
+        },
+        {
+          "id": "southern-gospel",
+          "name": "Southern Gospel"
+        },
+        {
+          "id": "hillbilly",
+          "name": "Hillbilly"
+        },
+        {
+          "id": "stomp-and-holler",
+          "name": "Stomp and Holler"
+        },
+        {
+          "id": "outlaw",
+          "name": "Outlaw"
+        },
+        {
+          "id": "country-folk",
+          "name": "Country Folk"
+        },
+        {
+          "id": "country-rap",
+          "name": "Country Rap"
+        },
+        {
+          "id": "truck-driving",
+          "name": "Truck Driving"
+        },
+        {
+          "id": "gothic-americana",
+          "name": "Gothic Americana"
+        },
+        {
+          "id": "roots-rock",
+          "name": "Roots Rock"
+        },
+        {
+          "id": "heartland-rock",
+          "name": "Heartland Rock"
+        },
+        {
+          "id": "swamp-pop",
+          "name": "Swamp Pop"
+        },
+        {
+          "id": "rockabilly",
+          "name": "Rockabilly"
+        },
+        {
+          "id": "redneck-rock",
+          "name": "Redneck Rock"
+        },
+        {
+          "id": "christian-country",
+          "name": "Christian Country"
+        },
+        {
+          "id": "stadium-country",
+          "name": "Stadium Country"
+        },
+        {
+          "id": "bluegrass-gospel",
+          "name": "Bluegrass Gospel"
+        },
+        {
+          "id": "sertanejo-country",
+          "name": "Sertanejo Country"
+        },
+        {
+          "id": "nu-country",
+          "name": "Nu-Country"
+        },
+        {
+          "id": "yodeling",
+          "name": "Yodeling"
+        },
+        {
+          "id": "lubbock-sound",
+          "name": "Lubbock Sound"
+        },
+        {
+          "id": "appalachian",
+          "name": "Appalachian"
+        },
+        {
+          "id": "close-harmony",
+          "name": "Close Harmony"
+        },
+        {
+          "id": "country-boogie",
+          "name": "Country Boogie"
+        },
+        {
+          "id": "hick-hop",
+          "name": "Hick Hop"
+        },
+        {
+          "id": "cosmic-country",
+          "name": "Cosmic Country"
+        },
+        {
+          "id": "folk-country",
+          "name": "Folk Country"
+        },
+        {
+          "id": "country-blues",
+          "name": "Country Blues"
+        },
+        {
+          "id": "jug-band",
+          "name": "Jug Band"
+        },
+        {
+          "id": "mountain-music",
+          "name": "Mountain Music"
+        }
+      ]
+    },
+    {
+      "id": "folk-traditional",
+      "name": "Folk & Traditional",
+      "subgenres": [
+        {
+          "id": "contemporary-folk",
+          "name": "Contemporary Folk"
+        },
+        {
+          "id": "traditional-folk",
+          "name": "Traditional Folk"
+        },
+        {
+          "id": "folk-revival",
+          "name": "Folk Revival"
+        },
+        {
+          "id": "singer-songwriter",
+          "name": "Singer-Songwriter"
+        },
+        {
+          "id": "anti-folk",
+          "name": "Anti-Folk"
+        },
+        {
+          "id": "freak-folk",
+          "name": "Freak Folk"
+        },
+        {
+          "id": "neofolk",
+          "name": "Neofolk"
+        },
+        {
+          "id": "indie-folk",
+          "name": "Indie Folk"
+        },
+        {
+          "id": "folk-pop",
+          "name": "Folk Pop"
+        },
+        {
+          "id": "celtic",
+          "name": "Celtic"
+        },
+        {
+          "id": "celtic-rock",
+          "name": "Celtic Rock"
+        },
+        {
+          "id": "irish-folk",
+          "name": "Irish Folk"
+        },
+        {
+          "id": "scottish-folk",
+          "name": "Scottish Folk"
+        },
+        {
+          "id": "breton",
+          "name": "Breton"
+        },
+        {
+          "id": "nordic-folk",
+          "name": "Nordic Folk"
+        },
+        {
+          "id": "medieval",
+          "name": "Medieval"
+        },
+        {
+          "id": "folk-metal",
+          "name": "Folk Metal"
+        },
+        {
+          "id": "polka",
+          "name": "Polka"
+        },
+        {
+          "id": "klezmer",
+          "name": "Klezmer"
+        },
+        {
+          "id": "balkan",
+          "name": "Balkan"
+        },
+        {
+          "id": "gypsy",
+          "name": "Gypsy"
+        },
+        {
+          "id": "flamenco",
+          "name": "Flamenco"
+        },
+        {
+          "id": "fado",
+          "name": "Fado"
+        },
+        {
+          "id": "rebetiko",
+          "name": "Rebetiko"
+        },
+        {
+          "id": "laiko",
+          "name": "Laïko"
+        },
+        {
+          "id": "chanson",
+          "name": "Chanson"
+        },
+        {
+          "id": "chanson-realiste",
+          "name": "Chanson Réaliste"
+        },
+        {
+          "id": "musette",
+          "name": "Musette"
+        },
+        {
+          "id": "bal-folk",
+          "name": "Bal Folk"
+        },
+        {
+          "id": "sea-shanty",
+          "name": "Sea Shanty"
+        },
+        {
+          "id": "bothy-ballad",
+          "name": "Bothy Ballad"
+        },
+        {
+          "id": "skiffle",
+          "name": "Skiffle"
+        },
+        {
+          "id": "pagan-folk",
+          "name": "Pagan Folk"
+        },
+        {
+          "id": "apocalyptic-folk",
+          "name": "Apocalyptic Folk"
+        },
+        {
+          "id": "dark-folk",
+          "name": "Dark Folk"
+        },
+        {
+          "id": "psychedelic-folk",
+          "name": "Psychedelic Folk"
+        },
+        {
+          "id": "appalachian-folk",
+          "name": "Appalachian Folk"
+        },
+        {
+          "id": "bluegrass",
+          "name": "Bluegrass"
+        },
+        {
+          "id": "gaelic",
+          "name": "Gaelic"
+        },
+        {
+          "id": "tarantella",
+          "name": "Tarantella"
+        },
+        {
+          "id": "canzone-napoletana",
+          "name": "Canzone Napoletana"
+        },
+        {
+          "id": "yiddish",
+          "name": "Yiddish"
+        },
+        {
+          "id": "hungarian-folk",
+          "name": "Hungarian Folk"
+        },
+        {
+          "id": "romanian-folk",
+          "name": "Romanian Folk"
+        },
+        {
+          "id": "russian-folk",
+          "name": "Russian Folk"
+        },
+        {
+          "id": "ukrainian-folk",
+          "name": "Ukrainian Folk"
+        },
+        {
+          "id": "slavic-folk",
+          "name": "Slavic Folk"
+        },
+        {
+          "id": "baltic-folk",
+          "name": "Baltic Folk"
+        },
+        {
+          "id": "sami-joik",
+          "name": "Sami Joik"
+        },
+        {
+          "id": "alpine-folk",
+          "name": "Alpine Folk"
+        },
+        {
+          "id": "volksmusik",
+          "name": "Volksmusik"
+        },
+        {
+          "id": "schlager-folk",
+          "name": "Schlager Folk"
+        },
+        {
+          "id": "sevdalinka",
+          "name": "Sevdalinka"
+        },
+        {
+          "id": "turbo-folk",
+          "name": "Turbo-Folk"
+        },
+        {
+          "id": "calgija",
+          "name": "Čalgija"
+        },
+        {
+          "id": "manele",
+          "name": "Manele"
+        },
+        {
+          "id": "muzica-populara",
+          "name": "Muzică Populară"
+        },
+        {
+          "id": "chalga",
+          "name": "Chalga"
+        },
+        {
+          "id": "polska",
+          "name": "Polska"
+        },
+        {
+          "id": "tamburica",
+          "name": "Tamburica"
+        },
+        {
+          "id": "gusle",
+          "name": "Gusle"
+        },
+        {
+          "id": "kolo",
+          "name": "Kolo"
+        },
+        {
+          "id": "vallenato-folk",
+          "name": "Vallenato Folk"
+        },
+        {
+          "id": "andean-folk",
+          "name": "Andean Folk"
+        },
+        {
+          "id": "nueva-cancion",
+          "name": "Nueva Canción"
+        },
+        {
+          "id": "mariachi",
+          "name": "Mariachi"
+        },
+        {
+          "id": "ranchera",
+          "name": "Ranchera"
+        },
+        {
+          "id": "corrido",
+          "name": "Corrido"
+        },
+        {
+          "id": "norteno",
+          "name": "Norteño"
+        },
+        {
+          "id": "banda",
+          "name": "Banda"
+        },
+        {
+          "id": "grupera",
+          "name": "Grupera"
+        },
+        {
+          "id": "son-jarocho",
+          "name": "Son Jarocho"
+        },
+        {
+          "id": "huapango",
+          "name": "Huapango"
+        },
+        {
+          "id": "bolero",
+          "name": "Bolero"
+        },
+        {
+          "id": "bomba",
+          "name": "Bomba"
+        },
+        {
+          "id": "plena",
+          "name": "Plena"
+        },
+        {
+          "id": "jibaro",
+          "name": "Jíbaro"
+        },
+        {
+          "id": "mento",
+          "name": "Mento"
+        },
+        {
+          "id": "calypso",
+          "name": "Calypso"
+        },
+        {
+          "id": "soca",
+          "name": "Soca"
+        }
+      ]
+    },
+    {
+      "id": "classical-orchestral",
+      "name": "Classical & Orchestral",
+      "subgenres": [
+        {
+          "id": "medieval",
+          "name": "Medieval"
+        },
+        {
+          "id": "renaissance",
+          "name": "Renaissance"
+        },
+        {
+          "id": "baroque",
+          "name": "Baroque"
+        },
+        {
+          "id": "classical-period",
+          "name": "Classical Period"
+        },
+        {
+          "id": "romantic",
+          "name": "Romantic"
+        },
+        {
+          "id": "impressionist",
+          "name": "Impressionist"
+        },
+        {
+          "id": "modern-classical",
+          "name": "Modern Classical"
+        },
+        {
+          "id": "contemporary-classical",
+          "name": "Contemporary Classical"
+        },
+        {
+          "id": "minimalism",
+          "name": "Minimalism"
+        },
+        {
+          "id": "neoclassical",
+          "name": "Neoclassical"
+        },
+        {
+          "id": "post-romantic",
+          "name": "Post-Romantic"
+        },
+        {
+          "id": "expressionist",
+          "name": "Expressionist"
+        },
+        {
+          "id": "opera",
+          "name": "Opera"
+        },
+        {
+          "id": "operetta",
+          "name": "Operetta"
+        },
+        {
+          "id": "zarzuela",
+          "name": "Zarzuela"
+        },
+        {
+          "id": "chamber-music",
+          "name": "Chamber Music"
+        },
+        {
+          "id": "string-quartet",
+          "name": "String Quartet"
+        },
+        {
+          "id": "symphony",
+          "name": "Symphony"
+        },
+        {
+          "id": "concerto",
+          "name": "Concerto"
+        },
+        {
+          "id": "solo-piano",
+          "name": "Solo Piano"
+        },
+        {
+          "id": "organ-music",
+          "name": "Organ Music"
+        },
+        {
+          "id": "choral",
+          "name": "Choral"
+        },
+        {
+          "id": "gregorian-chant",
+          "name": "Gregorian Chant"
+        },
+        {
+          "id": "sacred-music",
+          "name": "Sacred Music"
+        },
+        {
+          "id": "requiem",
+          "name": "Requiem"
+        },
+        {
+          "id": "early-music",
+          "name": "Early Music"
+        },
+        {
+          "id": "electroacoustic",
+          "name": "Electroacoustic"
+        },
+        {
+          "id": "avant-garde-classical",
+          "name": "Avant-Garde Classical"
+        },
+        {
+          "id": "film-score",
+          "name": "Film Score"
+        },
+        {
+          "id": "soundtrack",
+          "name": "Soundtrack"
+        },
+        {
+          "id": "video-game-music",
+          "name": "Video Game Music"
+        },
+        {
+          "id": "anime-soundtrack",
+          "name": "Anime Soundtrack"
+        },
+        {
+          "id": "orchestral-pop",
+          "name": "Orchestral Pop"
+        },
+        {
+          "id": "crossover-classical",
+          "name": "Crossover Classical"
+        },
+        {
+          "id": "cinematic-classical",
+          "name": "Cinematic Classical"
+        },
+        {
+          "id": "spectral-music",
+          "name": "Spectral Music"
+        },
+        {
+          "id": "serialism",
+          "name": "Serialism"
+        },
+        {
+          "id": "aleatoric-music",
+          "name": "Aleatoric Music"
+        },
+        {
+          "id": "musique-concrete",
+          "name": "Musique Concrète"
+        },
+        {
+          "id": "microtonal",
+          "name": "Microtonal"
+        },
+        {
+          "id": "ballet",
+          "name": "Ballet"
+        },
+        {
+          "id": "art-song",
+          "name": "Art Song"
+        },
+        {
+          "id": "lieder",
+          "name": "Lieder"
+        },
+        {
+          "id": "melodie",
+          "name": "Mélodie"
+        },
+        {
+          "id": "bel-canto",
+          "name": "Bel Canto"
+        },
+        {
+          "id": "verismo",
+          "name": "Verismo"
+        },
+        {
+          "id": "grand-opera",
+          "name": "Grand Opera"
+        },
+        {
+          "id": "opera-comique",
+          "name": "Opéra Comique"
+        },
+        {
+          "id": "singspiel",
+          "name": "Singspiel"
+        },
+        {
+          "id": "oratorio",
+          "name": "Oratorio"
+        },
+        {
+          "id": "cantata",
+          "name": "Cantata"
+        },
+        {
+          "id": "mass",
+          "name": "Mass"
+        },
+        {
+          "id": "motet",
+          "name": "Motet"
+        },
+        {
+          "id": "madrigal",
+          "name": "Madrigal"
+        },
+        {
+          "id": "fugue",
+          "name": "Fugue"
+        },
+        {
+          "id": "sonata",
+          "name": "Sonata"
+        },
+        {
+          "id": "etude",
+          "name": "Étude"
+        },
+        {
+          "id": "nocturne",
+          "name": "Nocturne"
+        },
+        {
+          "id": "waltz",
+          "name": "Waltz"
+        },
+        {
+          "id": "march",
+          "name": "March"
+        },
+        {
+          "id": "marching-band",
+          "name": "Marching Band"
+        },
+        {
+          "id": "brass-band",
+          "name": "Brass Band"
+        },
+        {
+          "id": "wind-ensemble",
+          "name": "Wind Ensemble"
+        },
+        {
+          "id": "gamelan-classical",
+          "name": "Gamelan Classical"
+        },
+        {
+          "id": "indian-classical",
+          "name": "Indian Classical"
+        },
+        {
+          "id": "carnatic",
+          "name": "Carnatic"
+        },
+        {
+          "id": "hindustani",
+          "name": "Hindustani"
+        },
+        {
+          "id": "dhrupad",
+          "name": "Dhrupad"
+        },
+        {
+          "id": "khyal",
+          "name": "Khyal"
+        },
+        {
+          "id": "qawwali",
+          "name": "Qawwali"
+        },
+        {
+          "id": "ghazal",
+          "name": "Ghazal"
+        },
+        {
+          "id": "persian-classical",
+          "name": "Persian Classical"
+        },
+        {
+          "id": "turkish-classical",
+          "name": "Turkish Classical"
+        },
+        {
+          "id": "ottoman-classical",
+          "name": "Ottoman Classical"
+        },
+        {
+          "id": "arabic-classical",
+          "name": "Arabic Classical"
+        },
+        {
+          "id": "andalusian-classical",
+          "name": "Andalusian Classical"
+        },
+        {
+          "id": "chinese-classical",
+          "name": "Chinese Classical"
+        },
+        {
+          "id": "japanese-gagaku",
+          "name": "Japanese Gagaku"
+        },
+        {
+          "id": "korean-court-music",
+          "name": "Korean Court Music"
+        },
+        {
+          "id": "vietnamese-nhac-co-truyen",
+          "name": "Vietnamese Nhạc Cổ Truyền"
+        },
+        {
+          "id": "piano-rock",
+          "name": "Piano Rock"
+        },
+        {
+          "id": "ambient-classical",
+          "name": "Ambient Classical"
+        },
+        {
+          "id": "modern-composition",
+          "name": "Modern Composition"
+        },
+        {
+          "id": "post-minimalism",
+          "name": "Post-Minimalism"
+        },
+        {
+          "id": "holy-minimalism",
+          "name": "Holy Minimalism"
+        },
+        {
+          "id": "tintinnabuli",
+          "name": "Tintinnabuli"
+        },
+        {
+          "id": "cinematic-orchestral",
+          "name": "Cinematic Orchestral"
+        },
+        {
+          "id": "epic-music",
+          "name": "Epic Music"
+        },
+        {
+          "id": "trailer-music",
+          "name": "Trailer Music"
+        },
+        {
+          "id": "neo-romantic",
+          "name": "Neo-Romantic"
+        },
+        {
+          "id": "neo-baroque",
+          "name": "Neo-Baroque"
+        },
+        {
+          "id": "crossover-orchestral",
+          "name": "Crossover Orchestral"
+        },
+        {
+          "id": "third-stream",
+          "name": "Third Stream"
+        },
+        {
+          "id": "new-age-classical",
+          "name": "New Age Classical"
+        }
+      ]
+    },
+    {
+      "id": "reggae-caribbean",
+      "name": "Reggae & Caribbean",
+      "subgenres": [
+        {
+          "id": "roots-reggae",
+          "name": "Roots Reggae"
+        },
+        {
+          "id": "dub",
+          "name": "Dub"
+        },
+        {
+          "id": "dancehall",
+          "name": "Dancehall"
+        },
+        {
+          "id": "ragga",
+          "name": "Ragga"
+        },
+        {
+          "id": "lovers-rock",
+          "name": "Lovers Rock"
+        },
+        {
+          "id": "ska",
+          "name": "Ska"
+        },
+        {
+          "id": "rocksteady",
+          "name": "Rocksteady"
+        },
+        {
+          "id": "two-tone",
+          "name": "Two-Tone"
+        },
+        {
+          "id": "reggae-fusion",
+          "name": "Reggae Fusion"
+        },
+        {
+          "id": "reggae-rock",
+          "name": "Reggae Rock"
+        },
+        {
+          "id": "reggaeton",
+          "name": "Reggaeton"
+        },
+        {
+          "id": "dembow",
+          "name": "Dembow"
+        },
+        {
+          "id": "soca",
+          "name": "Soca"
+        },
+        {
+          "id": "calypso",
+          "name": "Calypso"
+        },
+        {
+          "id": "zouk",
+          "name": "Zouk"
+        },
+        {
+          "id": "kompa",
+          "name": "Kompa"
+        },
+        {
+          "id": "compas",
+          "name": "Compas"
+        },
+        {
+          "id": "cadence-lypso",
+          "name": "Cadence-lypso"
+        },
+        {
+          "id": "bouyon",
+          "name": "Bouyon"
+        },
+        {
+          "id": "merengue",
+          "name": "Merengue"
+        },
+        {
+          "id": "bachata",
+          "name": "Bachata"
+        },
+        {
+          "id": "salsa",
+          "name": "Salsa"
+        },
+        {
+          "id": "timba",
+          "name": "Timba"
+        },
+        {
+          "id": "son-cubano",
+          "name": "Son Cubano"
+        },
+        {
+          "id": "mambo",
+          "name": "Mambo"
+        },
+        {
+          "id": "cha-cha-cha",
+          "name": "Cha-Cha-Chá"
+        },
+        {
+          "id": "rumba",
+          "name": "Rumba"
+        },
+        {
+          "id": "bolero",
+          "name": "Bolero"
+        },
+        {
+          "id": "bomba",
+          "name": "Bomba"
+        },
+        {
+          "id": "plena",
+          "name": "Plena"
+        },
+        {
+          "id": "mento",
+          "name": "Mento"
+        },
+        {
+          "id": "steelpan",
+          "name": "Steelpan"
+        },
+        {
+          "id": "junkanoo",
+          "name": "Junkanoo"
+        },
+        {
+          "id": "rake-n-scrape",
+          "name": "Rake-n-Scrape"
+        },
+        {
+          "id": "gwo-ka",
+          "name": "Gwo Ka"
+        },
+        {
+          "id": "bele",
+          "name": "Bèlè"
+        },
+        {
+          "id": "biguine",
+          "name": "Biguine"
+        },
+        {
+          "id": "chutney",
+          "name": "Chutney"
+        },
+        {
+          "id": "chutney-soca",
+          "name": "Chutney Soca"
+        },
+        {
+          "id": "soca-parang",
+          "name": "Soca Parang"
+        },
+        {
+          "id": "parang",
+          "name": "Parang"
+        },
+        {
+          "id": "reggae-en-espanol",
+          "name": "Reggae en Español"
+        },
+        {
+          "id": "reggaeton-romantico",
+          "name": "Reggaeton Romántico"
+        },
+        {
+          "id": "moombahton",
+          "name": "Moombahton"
+        },
+        {
+          "id": "latin-trap",
+          "name": "Latin Trap"
+        },
+        {
+          "id": "dub-poetry",
+          "name": "Dub Poetry"
+        },
+        {
+          "id": "dub-techno",
+          "name": "Dub Techno"
+        },
+        {
+          "id": "digital-reggae",
+          "name": "Digital Reggae"
+        },
+        {
+          "id": "jungle-reggae",
+          "name": "Jungle Reggae"
+        },
+        {
+          "id": "lovers-dancehall",
+          "name": "Lovers Dancehall"
+        },
+        {
+          "id": "afro-dancehall",
+          "name": "Afro Dancehall"
+        },
+        {
+          "id": "raggamuffin",
+          "name": "Raggamuffin"
+        },
+        {
+          "id": "sound-system",
+          "name": "Sound System"
+        },
+        {
+          "id": "steppers",
+          "name": "Steppers"
+        },
+        {
+          "id": "nyabinghi",
+          "name": "Nyabinghi"
+        },
+        {
+          "id": "roots-rock-reggae",
+          "name": "Roots Rock Reggae"
+        },
+        {
+          "id": "reggae-pop",
+          "name": "Reggae Pop"
+        },
+        {
+          "id": "skinhead-reggae",
+          "name": "Skinhead Reggae"
+        },
+        {
+          "id": "bashment",
+          "name": "Bashment"
+        },
+        {
+          "id": "afroswing",
+          "name": "Afroswing"
+        },
+        {
+          "id": "dembow-dominicano",
+          "name": "Dembow Dominicano"
+        },
+        {
+          "id": "mambo-urbano",
+          "name": "Mambo Urbano"
+        },
+        {
+          "id": "merengue-tipico",
+          "name": "Merengue Típico"
+        },
+        {
+          "id": "merengue-de-orquesta",
+          "name": "Merengue de Orquesta"
+        },
+        {
+          "id": "palo",
+          "name": "Palo"
+        },
+        {
+          "id": "salsa-romantica",
+          "name": "Salsa Romántica"
+        },
+        {
+          "id": "salsa-dura",
+          "name": "Salsa Dura"
+        },
+        {
+          "id": "boogaloo",
+          "name": "Boogaloo"
+        },
+        {
+          "id": "charanga",
+          "name": "Charanga"
+        },
+        {
+          "id": "pachanga",
+          "name": "Pachanga"
+        },
+        {
+          "id": "guaguanco",
+          "name": "Guaguancó"
+        },
+        {
+          "id": "guaracha",
+          "name": "Guaracha"
+        },
+        {
+          "id": "songo",
+          "name": "Songo"
+        },
+        {
+          "id": "changui",
+          "name": "Changüí"
+        },
+        {
+          "id": "nengon",
+          "name": "Nengón"
+        },
+        {
+          "id": "kaseko",
+          "name": "Kaseko"
+        },
+        {
+          "id": "bigi-poku",
+          "name": "Bigi Poku"
+        },
+        {
+          "id": "winti",
+          "name": "Winti"
+        },
+        {
+          "id": "soca-groovy",
+          "name": "Soca Groovy"
+        },
+        {
+          "id": "power-soca",
+          "name": "Power Soca"
+        },
+        {
+          "id": "jab-jab",
+          "name": "Jab Jab"
+        },
+        {
+          "id": "ringbang",
+          "name": "Ringbang"
+        },
+        {
+          "id": "extempo",
+          "name": "Extempo"
+        },
+        {
+          "id": "rapso",
+          "name": "Rapso"
+        }
+      ]
+    },
+    {
+      "id": "latin",
+      "name": "Latin",
+      "subgenres": [
+        {
+          "id": "salsa",
+          "name": "Salsa"
+        },
+        {
+          "id": "bachata",
+          "name": "Bachata"
+        },
+        {
+          "id": "merengue",
+          "name": "Merengue"
+        },
+        {
+          "id": "cumbia",
+          "name": "Cumbia"
+        },
+        {
+          "id": "vallenato",
+          "name": "Vallenato"
+        },
+        {
+          "id": "reggaeton",
+          "name": "Reggaeton"
+        },
+        {
+          "id": "latin-pop",
+          "name": "Latin Pop"
+        },
+        {
+          "id": "latin-rock",
+          "name": "Latin Rock"
+        },
+        {
+          "id": "rock-en-espanol",
+          "name": "Rock en Español"
+        },
+        {
+          "id": "latin-trap",
+          "name": "Latin Trap"
+        },
+        {
+          "id": "latin-jazz",
+          "name": "Latin Jazz"
+        },
+        {
+          "id": "bossa-nova",
+          "name": "Bossa Nova"
+        },
+        {
+          "id": "samba",
+          "name": "Samba"
+        },
+        {
+          "id": "pagode",
+          "name": "Pagode"
+        },
+        {
+          "id": "forro",
+          "name": "Forró"
+        },
+        {
+          "id": "axe",
+          "name": "Axé"
+        },
+        {
+          "id": "mpb",
+          "name": "MPB"
+        },
+        {
+          "id": "tropicalia",
+          "name": "Tropicália"
+        },
+        {
+          "id": "sertanejo",
+          "name": "Sertanejo"
+        },
+        {
+          "id": "funk-carioca",
+          "name": "Funk Carioca"
+        },
+        {
+          "id": "baile-funk",
+          "name": "Baile Funk"
+        },
+        {
+          "id": "choro",
+          "name": "Choro"
+        },
+        {
+          "id": "tango",
+          "name": "Tango"
+        },
+        {
+          "id": "nuevo-tango",
+          "name": "Nuevo Tango"
+        },
+        {
+          "id": "milonga",
+          "name": "Milonga"
+        },
+        {
+          "id": "bolero",
+          "name": "Bolero"
+        },
+        {
+          "id": "mariachi",
+          "name": "Mariachi"
+        },
+        {
+          "id": "ranchera",
+          "name": "Ranchera"
+        },
+        {
+          "id": "norteno",
+          "name": "Norteño"
+        },
+        {
+          "id": "banda",
+          "name": "Banda"
+        },
+        {
+          "id": "corrido",
+          "name": "Corrido"
+        },
+        {
+          "id": "tejano",
+          "name": "Tejano"
+        },
+        {
+          "id": "mambo",
+          "name": "Mambo"
+        },
+        {
+          "id": "cha-cha-cha",
+          "name": "Cha-Cha-Chá"
+        },
+        {
+          "id": "rumba",
+          "name": "Rumba"
+        },
+        {
+          "id": "son-cubano",
+          "name": "Son Cubano"
+        },
+        {
+          "id": "timba",
+          "name": "Timba"
+        },
+        {
+          "id": "nueva-trova",
+          "name": "Nueva Trova"
+        },
+        {
+          "id": "nueva-cancion",
+          "name": "Nueva Canción"
+        },
+        {
+          "id": "musica-criolla",
+          "name": "Música Criolla"
+        },
+        {
+          "id": "vals-peruano",
+          "name": "Vals Peruano"
+        },
+        {
+          "id": "huayno",
+          "name": "Huayno"
+        },
+        {
+          "id": "chicha",
+          "name": "Chicha"
+        },
+        {
+          "id": "andean-music",
+          "name": "Andean Music"
+        },
+        {
+          "id": "cueca",
+          "name": "Cueca"
+        },
+        {
+          "id": "zamba",
+          "name": "Zamba"
+        },
+        {
+          "id": "chacarera",
+          "name": "Chacarera"
+        },
+        {
+          "id": "chamame",
+          "name": "Chamamé"
+        },
+        {
+          "id": "cuarteto",
+          "name": "Cuarteto"
+        },
+        {
+          "id": "cumbia-villera",
+          "name": "Cumbia Villera"
+        },
+        {
+          "id": "cumbia-sonidera",
+          "name": "Cumbia Sonidera"
+        },
+        {
+          "id": "cumbia-peruana",
+          "name": "Cumbia Peruana"
+        },
+        {
+          "id": "champeta",
+          "name": "Champeta"
+        },
+        {
+          "id": "mapale",
+          "name": "Mapalé"
+        },
+        {
+          "id": "bullerengue",
+          "name": "Bullerengue"
+        },
+        {
+          "id": "currulao",
+          "name": "Currulao"
+        },
+        {
+          "id": "joropo",
+          "name": "Joropo"
+        },
+        {
+          "id": "gaita",
+          "name": "Gaita"
+        },
+        {
+          "id": "llanera",
+          "name": "Llanera"
+        },
+        {
+          "id": "musica-llanera",
+          "name": "Música Llanera"
+        },
+        {
+          "id": "pasillo",
+          "name": "Pasillo"
+        },
+        {
+          "id": "bambuco",
+          "name": "Bambuco"
+        },
+        {
+          "id": "tango-electronico",
+          "name": "Tango Electrónico"
+        },
+        {
+          "id": "latin-alternative",
+          "name": "Latin Alternative"
+        },
+        {
+          "id": "latin-ballad",
+          "name": "Latin Ballad"
+        },
+        {
+          "id": "balada",
+          "name": "Balada"
+        },
+        {
+          "id": "latin-soul",
+          "name": "Latin Soul"
+        },
+        {
+          "id": "latin-funk",
+          "name": "Latin Funk"
+        },
+        {
+          "id": "boogaloo",
+          "name": "Boogaloo"
+        },
+        {
+          "id": "pachanga",
+          "name": "Pachanga"
+        },
+        {
+          "id": "guaracha",
+          "name": "Guaracha"
+        },
+        {
+          "id": "dembow",
+          "name": "Dembow"
+        },
+        {
+          "id": "perreo",
+          "name": "Perreo"
+        },
+        {
+          "id": "urbano-latino",
+          "name": "Urbano Latino"
+        },
+        {
+          "id": "regional-mexicano",
+          "name": "Regional Mexicano"
+        },
+        {
+          "id": "corridos-tumbados",
+          "name": "Corridos Tumbados"
+        },
+        {
+          "id": "sierreno",
+          "name": "Sierreño"
+        },
+        {
+          "id": "duranguense",
+          "name": "Duranguense"
+        },
+        {
+          "id": "grupera",
+          "name": "Grupera"
+        },
+        {
+          "id": "tribal-guarachero",
+          "name": "Tribal Guarachero"
+        },
+        {
+          "id": "trap-mexa",
+          "name": "Trap Mexa"
+        },
+        {
+          "id": "musica-tropical",
+          "name": "Música Tropical"
+        },
+        {
+          "id": "bolero-ranchero",
+          "name": "Bolero Ranchero"
+        },
+        {
+          "id": "son-jarocho",
+          "name": "Son Jarocho"
+        },
+        {
+          "id": "son-huasteco",
+          "name": "Son Huasteco"
+        },
+        {
+          "id": "huapango",
+          "name": "Huapango"
+        },
+        {
+          "id": "jarana",
+          "name": "Jarana"
+        },
+        {
+          "id": "trova-yucateca",
+          "name": "Trova Yucateca"
+        },
+        {
+          "id": "marimba",
+          "name": "Marimba"
+        },
+        {
+          "id": "punta",
+          "name": "Punta"
+        },
+        {
+          "id": "paranda",
+          "name": "Paranda"
+        },
+        {
+          "id": "garifuna",
+          "name": "Garifuna"
+        },
+        {
+          "id": "soca-latina",
+          "name": "Soca Latina"
+        },
+        {
+          "id": "latin-house",
+          "name": "Latin House"
+        },
+        {
+          "id": "latin-freestyle",
+          "name": "Latin Freestyle"
+        },
+        {
+          "id": "latin-hip-hop",
+          "name": "Latin Hip-Hop"
+        },
+        {
+          "id": "spanish-hip-hop",
+          "name": "Spanish Hip-Hop"
+        },
+        {
+          "id": "flamenco-pop",
+          "name": "Flamenco Pop"
+        },
+        {
+          "id": "rumba-catalana",
+          "name": "Rumba Catalana"
+        },
+        {
+          "id": "rumba-flamenca",
+          "name": "Rumba Flamenca"
+        },
+        {
+          "id": "copla",
+          "name": "Copla"
+        },
+        {
+          "id": "cancion-espanola",
+          "name": "Canción Española"
+        },
+        {
+          "id": "nuevo-flamenco",
+          "name": "Nuevo Flamenco"
+        },
+        {
+          "id": "cante-jondo",
+          "name": "Cante Jondo"
+        },
+        {
+          "id": "sevillanas",
+          "name": "Sevillanas"
+        },
+        {
+          "id": "jota",
+          "name": "Jota"
+        },
+        {
+          "id": "pasodoble",
+          "name": "Pasodoble"
+        },
+        {
+          "id": "buleria",
+          "name": "Bulería"
+        },
+        {
+          "id": "brazilian-funk",
+          "name": "Brazilian Funk"
+        },
+        {
+          "id": "brega",
+          "name": "Brega"
+        },
+        {
+          "id": "tecnobrega",
+          "name": "Tecnobrega"
+        },
+        {
+          "id": "piseiro",
+          "name": "Piseiro"
+        },
+        {
+          "id": "arrocha",
+          "name": "Arrocha"
+        },
+        {
+          "id": "lambada",
+          "name": "Lambada"
+        },
+        {
+          "id": "maracatu",
+          "name": "Maracatu"
+        },
+        {
+          "id": "frevo",
+          "name": "Frevo"
+        },
+        {
+          "id": "carimbo",
+          "name": "Carimbó"
+        },
+        {
+          "id": "capoeira-music",
+          "name": "Capoeira Music"
+        },
+        {
+          "id": "samba-reggae",
+          "name": "Samba-Reggae"
+        },
+        {
+          "id": "samba-rock",
+          "name": "Samba-Rock"
+        },
+        {
+          "id": "samba-de-raiz",
+          "name": "Samba de Raiz"
+        },
+        {
+          "id": "samba-cancao",
+          "name": "Samba-Canção"
+        },
+        {
+          "id": "samba-enredo",
+          "name": "Samba Enredo"
+        },
+        {
+          "id": "partido-alto",
+          "name": "Partido Alto"
+        },
+        {
+          "id": "jovem-guarda",
+          "name": "Jovem Guarda"
+        },
+        {
+          "id": "manguebeat",
+          "name": "Manguebeat"
+        },
+        {
+          "id": "brazilian-rock",
+          "name": "Brazilian Rock"
+        },
+        {
+          "id": "brazilian-jazz",
+          "name": "Brazilian Jazz"
+        },
+        {
+          "id": "brazilian-hip-hop",
+          "name": "Brazilian Hip-Hop"
+        },
+        {
+          "id": "brazilian-phonk",
+          "name": "Brazilian Phonk"
+        },
+        {
+          "id": "vanerao",
+          "name": "Vanerão"
+        },
+        {
+          "id": "gauchesca",
+          "name": "Gauchesca"
+        },
+        {
+          "id": "musica-gaucha",
+          "name": "Música Gaúcha"
+        }
+      ]
+    },
+    {
+      "id": "african",
+      "name": "African",
+      "subgenres": [
+        {
+          "id": "afrobeats",
+          "name": "Afrobeats"
+        },
+        {
+          "id": "afropop",
+          "name": "Afropop"
+        },
+        {
+          "id": "afro-fusion",
+          "name": "Afro-fusion"
+        },
+        {
+          "id": "afroswing",
+          "name": "Afroswing"
+        },
+        {
+          "id": "afrobeat",
+          "name": "Afrobeat"
+        },
+        {
+          "id": "highlife",
+          "name": "Highlife"
+        },
+        {
+          "id": "hiplife",
+          "name": "Hiplife"
+        },
+        {
+          "id": "juju",
+          "name": "Juju"
+        },
+        {
+          "id": "fuji",
+          "name": "Fuji"
+        },
+        {
+          "id": "apala",
+          "name": "Apala"
+        },
+        {
+          "id": "makossa",
+          "name": "Makossa"
+        },
+        {
+          "id": "bikutsi",
+          "name": "Bikutsi"
+        },
+        {
+          "id": "soukous",
+          "name": "Soukous"
+        },
+        {
+          "id": "congolese-rumba",
+          "name": "Congolese Rumba"
+        },
+        {
+          "id": "ndombolo",
+          "name": "Ndombolo"
+        },
+        {
+          "id": "mbalax",
+          "name": "Mbalax"
+        },
+        {
+          "id": "kora-music",
+          "name": "Kora Music"
+        },
+        {
+          "id": "griot",
+          "name": "Griot"
+        },
+        {
+          "id": "mande-music",
+          "name": "Mande Music"
+        },
+        {
+          "id": "wassoulou",
+          "name": "Wassoulou"
+        },
+        {
+          "id": "desert-blues",
+          "name": "Desert Blues"
+        },
+        {
+          "id": "tuareg-blues",
+          "name": "Tuareg Blues"
+        },
+        {
+          "id": "rai",
+          "name": "Rai"
+        },
+        {
+          "id": "chaabi",
+          "name": "Chaabi"
+        },
+        {
+          "id": "gnawa",
+          "name": "Gnawa"
+        },
+        {
+          "id": "andalusian-classical",
+          "name": "Andalusian Classical"
+        },
+        {
+          "id": "amazigh",
+          "name": "Amazigh"
+        },
+        {
+          "id": "kabyle",
+          "name": "Kabyle"
+        },
+        {
+          "id": "malouf",
+          "name": "Malouf"
+        },
+        {
+          "id": "taarab",
+          "name": "Taarab"
+        },
+        {
+          "id": "bongo-flava",
+          "name": "Bongo Flava"
+        },
+        {
+          "id": "genge",
+          "name": "Genge"
+        },
+        {
+          "id": "gengetone",
+          "name": "Gengetone"
+        },
+        {
+          "id": "benga",
+          "name": "Benga"
+        },
+        {
+          "id": "ohangla",
+          "name": "Ohangla"
+        },
+        {
+          "id": "kapuka",
+          "name": "Kapuka"
+        },
+        {
+          "id": "lingala",
+          "name": "Lingala"
+        },
+        {
+          "id": "zouglou",
+          "name": "Zouglou"
+        },
+        {
+          "id": "coupe-decale",
+          "name": "Coupé-Décalé"
+        },
+        {
+          "id": "mapouka",
+          "name": "Mapouka"
+        },
+        {
+          "id": "azonto",
+          "name": "Azonto"
+        },
+        {
+          "id": "kwaito",
+          "name": "Kwaito"
+        },
+        {
+          "id": "amapiano",
+          "name": "Amapiano"
+        },
+        {
+          "id": "gqom",
+          "name": "Gqom"
+        },
+        {
+          "id": "bacardi",
+          "name": "Bacardi"
+        },
+        {
+          "id": "maskandi",
+          "name": "Maskandi"
+        },
+        {
+          "id": "mbaqanga",
+          "name": "Mbaqanga"
+        },
+        {
+          "id": "isicathamiya",
+          "name": "Isicathamiya"
+        },
+        {
+          "id": "marabi",
+          "name": "Marabi"
+        },
+        {
+          "id": "kwela",
+          "name": "Kwela"
+        },
+        {
+          "id": "afrikaans-pop",
+          "name": "Afrikaans Pop"
+        },
+        {
+          "id": "boeremusiek",
+          "name": "Boeremusiek"
+        },
+        {
+          "id": "sungura",
+          "name": "Sungura"
+        },
+        {
+          "id": "chimurenga",
+          "name": "Chimurenga"
+        },
+        {
+          "id": "mbira",
+          "name": "Mbira"
+        },
+        {
+          "id": "jit",
+          "name": "Jit"
+        },
+        {
+          "id": "zimdancehall",
+          "name": "Zimdancehall"
+        },
+        {
+          "id": "marrabenta",
+          "name": "Marrabenta"
+        },
+        {
+          "id": "kizomba",
+          "name": "Kizomba"
+        },
+        {
+          "id": "semba",
+          "name": "Semba"
+        },
+        {
+          "id": "kuduro",
+          "name": "Kuduro"
+        },
+        {
+          "id": "kuduro-hardcore",
+          "name": "Kuduro Hardcore"
+        },
+        {
+          "id": "tarraxinha",
+          "name": "Tarraxinha"
+        },
+        {
+          "id": "morna",
+          "name": "Morna"
+        },
+        {
+          "id": "coladeira",
+          "name": "Coladeira"
+        },
+        {
+          "id": "funana",
+          "name": "Funaná"
+        },
+        {
+          "id": "batuku",
+          "name": "Batuku"
+        },
+        {
+          "id": "tabanka",
+          "name": "Tabanka"
+        },
+        {
+          "id": "gumbe",
+          "name": "Gumbe"
+        },
+        {
+          "id": "zouk",
+          "name": "Zouk"
+        },
+        {
+          "id": "bouyon",
+          "name": "Bouyon"
+        },
+        {
+          "id": "ethio-jazz",
+          "name": "Ethio-Jazz"
+        },
+        {
+          "id": "ethiopian-pop",
+          "name": "Ethiopian Pop"
+        },
+        {
+          "id": "eskista",
+          "name": "Eskista"
+        },
+        {
+          "id": "azmari",
+          "name": "Azmari"
+        },
+        {
+          "id": "tizita",
+          "name": "Tizita"
+        },
+        {
+          "id": "shaabi",
+          "name": "Shaabi"
+        },
+        {
+          "id": "mahraganat",
+          "name": "Mahraganat"
+        },
+        {
+          "id": "egyptian-pop",
+          "name": "Egyptian Pop"
+        },
+        {
+          "id": "sudanese-zanzibar",
+          "name": "Sudanese Zanzibar"
+        },
+        {
+          "id": "zanzibar-taarab",
+          "name": "Zanzibar Taarab"
+        },
+        {
+          "id": "sega",
+          "name": "Sega"
+        },
+        {
+          "id": "maloya",
+          "name": "Maloya"
+        },
+        {
+          "id": "sega-tipik",
+          "name": "Séga Tipik"
+        },
+        {
+          "id": "salegy",
+          "name": "Salegy"
+        },
+        {
+          "id": "tsapiky",
+          "name": "Tsapiky"
+        },
+        {
+          "id": "malagasy-hira-gasy",
+          "name": "Malagasy Hira Gasy"
+        },
+        {
+          "id": "vakodrazana",
+          "name": "Vakodrazana"
+        },
+        {
+          "id": "isitimela",
+          "name": "Isitimela"
+        },
+        {
+          "id": "township-jazz",
+          "name": "Township Jazz"
+        },
+        {
+          "id": "cape-jazz",
+          "name": "Cape Jazz"
+        },
+        {
+          "id": "afro-jazz",
+          "name": "Afro-Jazz"
+        },
+        {
+          "id": "jazz-manouche-africain",
+          "name": "Jazz Manouche Africain"
+        },
+        {
+          "id": "bend-skin",
+          "name": "Bend Skin"
+        },
+        {
+          "id": "kwassa-kwassa",
+          "name": "Kwassa Kwassa"
+        },
+        {
+          "id": "mangambeu",
+          "name": "Mangambeu"
+        },
+        {
+          "id": "rhumba-kinoise",
+          "name": "Rhumba Kinoise"
+        },
+        {
+          "id": "afro-cuban-congolese",
+          "name": "Afro-Cuban Congolese"
+        },
+        {
+          "id": "afro-latin",
+          "name": "Afro-Latin"
+        },
+        {
+          "id": "afro-soul",
+          "name": "Afro-Soul"
+        },
+        {
+          "id": "afro-house",
+          "name": "Afro House"
+        },
+        {
+          "id": "afro-tech",
+          "name": "Afro Tech"
+        },
+        {
+          "id": "afro-drill",
+          "name": "Afro Drill"
+        },
+        {
+          "id": "afro-trap",
+          "name": "Afro Trap"
+        },
+        {
+          "id": "afro-dancehall",
+          "name": "Afro Dancehall"
+        },
+        {
+          "id": "afro-gospel",
+          "name": "Afro Gospel"
+        },
+        {
+          "id": "gospel-africain",
+          "name": "Gospel Africain"
+        },
+        {
+          "id": "african-hip-hop",
+          "name": "African Hip-Hop"
+        },
+        {
+          "id": "bongo-hip-hop",
+          "name": "Bongo Hip-Hop"
+        },
+        {
+          "id": "kenyan-hip-hop",
+          "name": "Kenyan Hip-Hop"
+        },
+        {
+          "id": "nigerian-hip-hop",
+          "name": "Nigerian Hip-Hop"
+        },
+        {
+          "id": "ghanaian-hip-hop",
+          "name": "Ghanaian Hip-Hop"
+        },
+        {
+          "id": "drill-ghana",
+          "name": "Drill Ghana"
+        },
+        {
+          "id": "asakaa",
+          "name": "Asakaa"
+        },
+        {
+          "id": "alte",
+          "name": "Alté"
+        },
+        {
+          "id": "naija-pop",
+          "name": "Naija Pop"
+        },
+        {
+          "id": "street-pop",
+          "name": "Street Pop"
+        },
+        {
+          "id": "gyration",
+          "name": "Gyration"
+        },
+        {
+          "id": "yoruba-gospel",
+          "name": "Yoruba Gospel"
+        },
+        {
+          "id": "waka",
+          "name": "Waka"
+        },
+        {
+          "id": "sakara",
+          "name": "Sakara"
+        },
+        {
+          "id": "were",
+          "name": "Were"
+        },
+        {
+          "id": "dundun",
+          "name": "Dundun"
+        },
+        {
+          "id": "agidigbo",
+          "name": "Agidigbo"
+        },
+        {
+          "id": "konkoma",
+          "name": "Konkoma"
+        },
+        {
+          "id": "gome",
+          "name": "Gome"
+        },
+        {
+          "id": "kpanlogo",
+          "name": "Kpanlogo"
+        },
+        {
+          "id": "adowa",
+          "name": "Adowa"
+        },
+        {
+          "id": "borborbor",
+          "name": "Borborbor"
+        },
+        {
+          "id": "agbadza",
+          "name": "Agbadza"
+        },
+        {
+          "id": "bamaya",
+          "name": "Bamaya"
+        },
+        {
+          "id": "tuareg-rock",
+          "name": "Tuareg Rock"
+        },
+        {
+          "id": "afro-rock",
+          "name": "Afro-Rock"
+        },
+        {
+          "id": "afro-funk",
+          "name": "Afro-Funk"
+        },
+        {
+          "id": "afro-psychedelia",
+          "name": "Afro-Psychedelia"
+        },
+        {
+          "id": "afro-disco",
+          "name": "Afro-Disco"
+        },
+        {
+          "id": "cosmic-disco-africain",
+          "name": "Cosmic Disco Africain"
+        },
+        {
+          "id": "afro-reggae",
+          "name": "Afro-Reggae"
+        },
+        {
+          "id": "afro-zouk",
+          "name": "Afro-Zouk"
+        },
+        {
+          "id": "afro-electro",
+          "name": "Afro-Electro"
+        },
+        {
+          "id": "afro-punk",
+          "name": "Afro-Punk"
+        },
+        {
+          "id": "afro-metal",
+          "name": "Afro-Metal"
+        },
+        {
+          "id": "desert-rock",
+          "name": "Desert Rock"
+        },
+        {
+          "id": "sahrawi-music",
+          "name": "Sahrawi Music"
+        },
+        {
+          "id": "hassaniya-music",
+          "name": "Hassaniya Music"
+        },
+        {
+          "id": "tinde",
+          "name": "Tindé"
+        },
+        {
+          "id": "ardin",
+          "name": "Ardin"
+        },
+        {
+          "id": "gnawa-fusion",
+          "name": "Gnawa Fusion"
+        },
+        {
+          "id": "rai-pop",
+          "name": "Rai Pop"
+        },
+        {
+          "id": "rai-n-b",
+          "name": "Rai'n'B"
+        },
+        {
+          "id": "oriental-pop",
+          "name": "Oriental Pop"
+        },
+        {
+          "id": "chaabi-marocain",
+          "name": "Chaabi Marocain"
+        },
+        {
+          "id": "aita",
+          "name": "Aita"
+        },
+        {
+          "id": "melhoun",
+          "name": "Melhoun"
+        },
+        {
+          "id": "daqqa-marrakchia",
+          "name": "Daqqa Marrakchia"
+        },
+        {
+          "id": "ahwash",
+          "name": "Ahwash"
+        },
+        {
+          "id": "ahidous",
+          "name": "Ahidous"
+        },
+        {
+          "id": "reggada",
+          "name": "Reggada"
+        },
+        {
+          "id": "hadra",
+          "name": "Hadra"
+        },
+        {
+          "id": "issawa",
+          "name": "Issawa"
+        },
+        {
+          "id": "hamadsha",
+          "name": "Hamadsha"
+        },
+        {
+          "id": "sufi-music",
+          "name": "Sufi Music"
+        },
+        {
+          "id": "dhikr",
+          "name": "Dhikr"
+        },
+        {
+          "id": "qasida",
+          "name": "Qasida"
+        },
+        {
+          "id": "madih",
+          "name": "Madih"
+        },
+        {
+          "id": "anachid",
+          "name": "Anachid"
+        }
+      ]
+    },
+    {
+      "id": "middle-eastern-central-asian",
+      "name": "Middle Eastern & Central Asian",
+      "subgenres": [
+        {
+          "id": "arabic-pop",
+          "name": "Arabic Pop"
+        },
+        {
+          "id": "khaleeji",
+          "name": "Khaleeji"
+        },
+        {
+          "id": "shaabi",
+          "name": "Shaabi"
+        },
+        {
+          "id": "mahraganat",
+          "name": "Mahraganat"
+        },
+        {
+          "id": "dabke",
+          "name": "Dabke"
+        },
+        {
+          "id": "mawwal",
+          "name": "Mawwal"
+        },
+        {
+          "id": "muwashshah",
+          "name": "Muwashshah"
+        },
+        {
+          "id": "rai",
+          "name": "Rai"
+        },
+        {
+          "id": "chaabi",
+          "name": "Chaabi"
+        },
+        {
+          "id": "turkish-pop",
+          "name": "Turkish Pop"
+        },
+        {
+          "id": "arabesk",
+          "name": "Arabesk"
+        },
+        {
+          "id": "turkish-folk",
+          "name": "Turkish Folk"
+        },
+        {
+          "id": "turkish-classical",
+          "name": "Turkish Classical"
+        },
+        {
+          "id": "ottoman-military-music",
+          "name": "Ottoman Military Music"
+        },
+        {
+          "id": "mehter",
+          "name": "Mehter"
+        },
+        {
+          "id": "persian-pop",
+          "name": "Persian Pop"
+        },
+        {
+          "id": "persian-classical",
+          "name": "Persian Classical"
+        },
+        {
+          "id": "persian-folk",
+          "name": "Persian Folk"
+        },
+        {
+          "id": "tehrangeles",
+          "name": "Tehrangeles"
+        },
+        {
+          "id": "kurdish-folk",
+          "name": "Kurdish Folk"
+        },
+        {
+          "id": "dengbej",
+          "name": "Dengbêj"
+        },
+        {
+          "id": "hebrew-pop",
+          "name": "Hebrew Pop"
+        },
+        {
+          "id": "mizrahi",
+          "name": "Mizrahi"
+        },
+        {
+          "id": "israeli-folk",
+          "name": "Israeli Folk"
+        },
+        {
+          "id": "israeli-rock",
+          "name": "Israeli Rock"
+        },
+        {
+          "id": "israeli-hip-hop",
+          "name": "Israeli Hip-Hop"
+        },
+        {
+          "id": "israeli-trance",
+          "name": "Israeli Trance"
+        },
+        {
+          "id": "piyyut",
+          "name": "Piyyut"
+        },
+        {
+          "id": "klezmer",
+          "name": "Klezmer"
+        },
+        {
+          "id": "armenian-folk",
+          "name": "Armenian Folk"
+        },
+        {
+          "id": "armenian-pop",
+          "name": "Armenian Pop"
+        },
+        {
+          "id": "georgian-polyphony",
+          "name": "Georgian Polyphony"
+        },
+        {
+          "id": "azerbaijani-mugham",
+          "name": "Azerbaijani Mugham"
+        },
+        {
+          "id": "ashiq",
+          "name": "Ashiq"
+        },
+        {
+          "id": "uzbek-shashmaqam",
+          "name": "Uzbek Shashmaqam"
+        },
+        {
+          "id": "tajik-falak",
+          "name": "Tajik Falak"
+        },
+        {
+          "id": "kazakh-kui",
+          "name": "Kazakh Kui"
+        },
+        {
+          "id": "kyrgyz-manas",
+          "name": "Kyrgyz Manas"
+        },
+        {
+          "id": "turkmen-bakhshi",
+          "name": "Turkmen Bakhshi"
+        },
+        {
+          "id": "afghan-ghazal",
+          "name": "Afghan Ghazal"
+        },
+        {
+          "id": "pashto-folk",
+          "name": "Pashto Folk"
+        },
+        {
+          "id": "rubab-music",
+          "name": "Rubab Music"
+        },
+        {
+          "id": "qawwali",
+          "name": "Qawwali"
+        },
+        {
+          "id": "sufi-music",
+          "name": "Sufi Music"
+        },
+        {
+          "id": "dhikr",
+          "name": "Dhikr"
+        },
+        {
+          "id": "islamic-nasheed",
+          "name": "Islamic Nasheed"
+        },
+        {
+          "id": "quranic-recitation",
+          "name": "Quranic Recitation"
+        },
+        {
+          "id": "tajweed",
+          "name": "Tajweed"
+        },
+        {
+          "id": "maqam",
+          "name": "Maqam"
+        },
+        {
+          "id": "oud-music",
+          "name": "Oud Music"
+        },
+        {
+          "id": "taqsim",
+          "name": "Taqsim"
+        },
+        {
+          "id": "darbuka",
+          "name": "Darbuka"
+        },
+        {
+          "id": "sephardic-music",
+          "name": "Sephardic Music"
+        },
+        {
+          "id": "ladino",
+          "name": "Ladino"
+        },
+        {
+          "id": "mizrahi-pop",
+          "name": "Mizrahi Pop"
+        },
+        {
+          "id": "oriental-rock",
+          "name": "Oriental Rock"
+        },
+        {
+          "id": "arabic-hip-hop",
+          "name": "Arabic Hip-Hop"
+        },
+        {
+          "id": "arabic-trap",
+          "name": "Arabic Trap"
+        },
+        {
+          "id": "rai-hip-hop",
+          "name": "Rai Hip-Hop"
+        },
+        {
+          "id": "khaleeji-pop",
+          "name": "Khaleeji Pop"
+        },
+        {
+          "id": "saudi-pop",
+          "name": "Saudi Pop"
+        },
+        {
+          "id": "emirati-pop",
+          "name": "Emirati Pop"
+        },
+        {
+          "id": "kuwaiti-sawt",
+          "name": "Kuwaiti Sawt"
+        },
+        {
+          "id": "bahraini-fijiri",
+          "name": "Bahraini Fijiri"
+        },
+        {
+          "id": "omani-folk",
+          "name": "Omani Folk"
+        },
+        {
+          "id": "yemeni-folk",
+          "name": "Yemeni Folk"
+        },
+        {
+          "id": "iraqi-maqam",
+          "name": "Iraqi Maqam"
+        },
+        {
+          "id": "iraqi-pop",
+          "name": "Iraqi Pop"
+        },
+        {
+          "id": "syrian-pop",
+          "name": "Syrian Pop"
+        },
+        {
+          "id": "lebanese-pop",
+          "name": "Lebanese Pop"
+        },
+        {
+          "id": "jordanian-folk",
+          "name": "Jordanian Folk"
+        },
+        {
+          "id": "palestinian-folk",
+          "name": "Palestinian Folk"
+        },
+        {
+          "id": "egyptian-pop",
+          "name": "Egyptian Pop"
+        },
+        {
+          "id": "egyptian-classical",
+          "name": "Egyptian Classical"
+        },
+        {
+          "id": "sudanese-pop",
+          "name": "Sudanese Pop"
+        },
+        {
+          "id": "libyan-malouf",
+          "name": "Libyan Malouf"
+        },
+        {
+          "id": "tunisian-mezwed",
+          "name": "Tunisian Mezwed"
+        },
+        {
+          "id": "algerian-chaabi",
+          "name": "Algerian Chaabi"
+        },
+        {
+          "id": "kabyle-pop",
+          "name": "Kabyle Pop"
+        },
+        {
+          "id": "moroccan-pop",
+          "name": "Moroccan Pop"
+        },
+        {
+          "id": "mauritanian-hassani",
+          "name": "Mauritanian Hassani"
+        }
+      ]
+    },
+    {
+      "id": "asian",
+      "name": "Asian",
+      "subgenres": [
+        {
+          "id": "j-pop",
+          "name": "J-Pop"
+        },
+        {
+          "id": "j-rock",
+          "name": "J-Rock"
+        },
+        {
+          "id": "j-metal",
+          "name": "J-Metal"
+        },
+        {
+          "id": "visual-kei",
+          "name": "Visual Kei"
+        },
+        {
+          "id": "city-pop",
+          "name": "City Pop"
+        },
+        {
+          "id": "enka",
+          "name": "Enka"
+        },
+        {
+          "id": "kayokyoku",
+          "name": "Kayōkyoku"
+        },
+        {
+          "id": "shibuya-kei",
+          "name": "Shibuya-kei"
+        },
+        {
+          "id": "anime-music",
+          "name": "Anime Music"
+        },
+        {
+          "id": "vocaloid",
+          "name": "Vocaloid"
+        },
+        {
+          "id": "japanese-hip-hop",
+          "name": "Japanese Hip-Hop"
+        },
+        {
+          "id": "japanese-jazz",
+          "name": "Japanese Jazz"
+        },
+        {
+          "id": "japanese-folk",
+          "name": "Japanese Folk"
+        },
+        {
+          "id": "minyo",
+          "name": "Minyō"
+        },
+        {
+          "id": "gagaku",
+          "name": "Gagaku"
+        },
+        {
+          "id": "shakuhachi",
+          "name": "Shakuhachi"
+        },
+        {
+          "id": "koto",
+          "name": "Koto"
+        },
+        {
+          "id": "taiko",
+          "name": "Taiko"
+        },
+        {
+          "id": "okinawan-folk",
+          "name": "Okinawan Folk"
+        },
+        {
+          "id": "ryukyuan",
+          "name": "Ryukyuan"
+        },
+        {
+          "id": "k-pop",
+          "name": "K-Pop"
+        },
+        {
+          "id": "k-rock",
+          "name": "K-Rock"
+        },
+        {
+          "id": "k-hip-hop",
+          "name": "K-Hip-Hop"
+        },
+        {
+          "id": "k-r-b",
+          "name": "K-R&B"
+        },
+        {
+          "id": "k-indie",
+          "name": "K-Indie"
+        },
+        {
+          "id": "trot",
+          "name": "Trot"
+        },
+        {
+          "id": "korean-ballad",
+          "name": "Korean Ballad"
+        },
+        {
+          "id": "korean-folk",
+          "name": "Korean Folk"
+        },
+        {
+          "id": "pansori",
+          "name": "Pansori"
+        },
+        {
+          "id": "gugak",
+          "name": "Gugak"
+        },
+        {
+          "id": "ost-korean",
+          "name": "OST Korean"
+        },
+        {
+          "id": "c-pop",
+          "name": "C-Pop"
+        },
+        {
+          "id": "mandopop",
+          "name": "Mandopop"
+        },
+        {
+          "id": "cantopop",
+          "name": "Cantopop"
+        },
+        {
+          "id": "chinese-rock",
+          "name": "Chinese Rock"
+        },
+        {
+          "id": "chinese-folk",
+          "name": "Chinese Folk"
+        },
+        {
+          "id": "chinese-classical",
+          "name": "Chinese Classical"
+        },
+        {
+          "id": "chinese-hip-hop",
+          "name": "Chinese Hip-Hop"
+        },
+        {
+          "id": "guofeng",
+          "name": "Guofeng"
+        },
+        {
+          "id": "dance-music-china",
+          "name": "Dance Music China"
+        },
+        {
+          "id": "taiwanese-pop",
+          "name": "Taiwanese Pop"
+        },
+        {
+          "id": "hokkien-pop",
+          "name": "Hokkien Pop"
+        },
+        {
+          "id": "hakka-music",
+          "name": "Hakka Music"
+        },
+        {
+          "id": "tibetan-folk",
+          "name": "Tibetan Folk"
+        },
+        {
+          "id": "mongolian-throat-singing",
+          "name": "Mongolian Throat Singing"
+        },
+        {
+          "id": "mongolian-folk",
+          "name": "Mongolian Folk"
+        },
+        {
+          "id": "vietnamese-pop",
+          "name": "Vietnamese Pop"
+        },
+        {
+          "id": "v-pop",
+          "name": "V-Pop"
+        },
+        {
+          "id": "nhac-vang",
+          "name": "Nhạc Vàng"
+        },
+        {
+          "id": "nhac-tru-tinh",
+          "name": "Nhạc Trữ Tình"
+        },
+        {
+          "id": "cai-luong",
+          "name": "Cải Lương"
+        },
+        {
+          "id": "thai-pop",
+          "name": "Thai Pop"
+        },
+        {
+          "id": "t-pop",
+          "name": "T-Pop"
+        },
+        {
+          "id": "luk-thung",
+          "name": "Luk Thung"
+        },
+        {
+          "id": "mor-lam",
+          "name": "Mor Lam"
+        },
+        {
+          "id": "thai-folk",
+          "name": "Thai Folk"
+        },
+        {
+          "id": "phleng-phuea-chiwit",
+          "name": "Phleng Phuea Chiwit"
+        },
+        {
+          "id": "lao-pop",
+          "name": "Lao Pop"
+        },
+        {
+          "id": "khmer-pop",
+          "name": "Khmer Pop"
+        },
+        {
+          "id": "khmer-rock",
+          "name": "Khmer Rock"
+        },
+        {
+          "id": "burmese-pop",
+          "name": "Burmese Pop"
+        },
+        {
+          "id": "indonesian-pop",
+          "name": "Indonesian Pop"
+        },
+        {
+          "id": "dangdut",
+          "name": "Dangdut"
+        },
+        {
+          "id": "koplo",
+          "name": "Koplo"
+        },
+        {
+          "id": "campursari",
+          "name": "Campursari"
+        },
+        {
+          "id": "kroncong",
+          "name": "Kroncong"
+        },
+        {
+          "id": "gamelan",
+          "name": "Gamelan"
+        },
+        {
+          "id": "keroncong",
+          "name": "Keroncong"
+        },
+        {
+          "id": "malay-pop",
+          "name": "Malay Pop"
+        },
+        {
+          "id": "nasyid",
+          "name": "Nasyid"
+        },
+        {
+          "id": "filipino-pop",
+          "name": "Filipino Pop"
+        },
+        {
+          "id": "opm",
+          "name": "OPM"
+        },
+        {
+          "id": "kundiman",
+          "name": "Kundiman"
+        },
+        {
+          "id": "pinoy-rock",
+          "name": "Pinoy Rock"
+        },
+        {
+          "id": "bollywood",
+          "name": "Bollywood"
+        },
+        {
+          "id": "filmi",
+          "name": "Filmi"
+        },
+        {
+          "id": "indian-pop",
+          "name": "Indian Pop"
+        },
+        {
+          "id": "indipop",
+          "name": "Indipop"
+        },
+        {
+          "id": "indian-classical",
+          "name": "Indian Classical"
+        },
+        {
+          "id": "carnatic",
+          "name": "Carnatic"
+        },
+        {
+          "id": "hindustani",
+          "name": "Hindustani"
+        },
+        {
+          "id": "bhangra",
+          "name": "Bhangra"
+        },
+        {
+          "id": "punjabi-pop",
+          "name": "Punjabi Pop"
+        },
+        {
+          "id": "bhojpuri",
+          "name": "Bhojpuri"
+        },
+        {
+          "id": "qawwali",
+          "name": "Qawwali"
+        },
+        {
+          "id": "ghazal",
+          "name": "Ghazal"
+        },
+        {
+          "id": "bhajan",
+          "name": "Bhajan"
+        },
+        {
+          "id": "kirtan",
+          "name": "Kirtan"
+        },
+        {
+          "id": "baul",
+          "name": "Baul"
+        },
+        {
+          "id": "rabindra-sangeet",
+          "name": "Rabindra Sangeet"
+        },
+        {
+          "id": "nazrul-geet",
+          "name": "Nazrul Geet"
+        },
+        {
+          "id": "tamil-pop",
+          "name": "Tamil Pop"
+        },
+        {
+          "id": "kollywood",
+          "name": "Kollywood"
+        },
+        {
+          "id": "telugu-pop",
+          "name": "Telugu Pop"
+        },
+        {
+          "id": "tollywood",
+          "name": "Tollywood"
+        },
+        {
+          "id": "malayalam-pop",
+          "name": "Malayalam Pop"
+        },
+        {
+          "id": "kannada-pop",
+          "name": "Kannada Pop"
+        },
+        {
+          "id": "marathi-pop",
+          "name": "Marathi Pop"
+        },
+        {
+          "id": "gujarati-garba",
+          "name": "Gujarati Garba"
+        },
+        {
+          "id": "sri-lankan-pop",
+          "name": "Sri Lankan Pop"
+        },
+        {
+          "id": "baila",
+          "name": "Baila"
+        },
+        {
+          "id": "nepali-pop",
+          "name": "Nepali Pop"
+        },
+        {
+          "id": "lok-dohori",
+          "name": "Lok Dohori"
+        },
+        {
+          "id": "pakistani-pop",
+          "name": "Pakistani Pop"
+        },
+        {
+          "id": "lollywood",
+          "name": "Lollywood"
+        },
+        {
+          "id": "sufi-rock",
+          "name": "Sufi Rock"
+        },
+        {
+          "id": "bangladeshi-pop",
+          "name": "Bangladeshi Pop"
+        },
+        {
+          "id": "indian-hip-hop",
+          "name": "Indian Hip-Hop"
+        },
+        {
+          "id": "desi-hip-hop",
+          "name": "Desi Hip-Hop"
+        },
+        {
+          "id": "gully-rap",
+          "name": "Gully Rap"
+        },
+        {
+          "id": "indian-rock",
+          "name": "Indian Rock"
+        },
+        {
+          "id": "indian-indie",
+          "name": "Indian Indie"
+        },
+        {
+          "id": "indian-electronic",
+          "name": "Indian Electronic"
+        },
+        {
+          "id": "goa-trance",
+          "name": "Goa Trance"
+        },
+        {
+          "id": "psytrance",
+          "name": "Psytrance"
+        },
+        {
+          "id": "indian-jazz",
+          "name": "Indian Jazz"
+        },
+        {
+          "id": "indian-fusion",
+          "name": "Indian Fusion"
+        },
+        {
+          "id": "indo-jazz",
+          "name": "Indo Jazz"
+        },
+        {
+          "id": "bhangra-fusion",
+          "name": "Bhangra Fusion"
+        },
+        {
+          "id": "desi-pop",
+          "name": "Desi Pop"
+        },
+        {
+          "id": "punjabi-hip-hop",
+          "name": "Punjabi Hip-Hop"
+        },
+        {
+          "id": "haryanvi-pop",
+          "name": "Haryanvi Pop"
+        },
+        {
+          "id": "rajasthani-folk",
+          "name": "Rajasthani Folk"
+        },
+        {
+          "id": "lavani",
+          "name": "Lavani"
+        },
+        {
+          "id": "powada",
+          "name": "Powada"
+        },
+        {
+          "id": "koli-geet",
+          "name": "Koli Geet"
+        },
+        {
+          "id": "dandiya",
+          "name": "Dandiya"
+        },
+        {
+          "id": "garba",
+          "name": "Garba"
+        },
+        {
+          "id": "bihu",
+          "name": "Bihu"
+        },
+        {
+          "id": "baul-fusion",
+          "name": "Baul Fusion"
+        },
+        {
+          "id": "pahari-folk",
+          "name": "Pahari Folk"
+        },
+        {
+          "id": "kashmiri-folk",
+          "name": "Kashmiri Folk"
+        },
+        {
+          "id": "sufiana-kalam",
+          "name": "Sufiana Kalam"
+        }
+      ]
+    },
+    {
+      "id": "gospel-religious",
+      "name": "Gospel & Religious",
+      "subgenres": [
+        {
+          "id": "traditional-gospel",
+          "name": "Traditional Gospel"
+        },
+        {
+          "id": "contemporary-gospel",
+          "name": "Contemporary Gospel"
+        },
+        {
+          "id": "urban-contemporary-gospel",
+          "name": "Urban Contemporary Gospel"
+        },
+        {
+          "id": "gospel-blues",
+          "name": "Gospel Blues"
+        },
+        {
+          "id": "gospel-soul",
+          "name": "Gospel Soul"
+        },
+        {
+          "id": "southern-gospel",
+          "name": "Southern Gospel"
+        },
+        {
+          "id": "black-gospel",
+          "name": "Black Gospel"
+        },
+        {
+          "id": "country-gospel",
+          "name": "Country Gospel"
+        },
+        {
+          "id": "bluegrass-gospel",
+          "name": "Bluegrass Gospel"
+        },
+        {
+          "id": "christian-rock",
+          "name": "Christian Rock"
+        },
+        {
+          "id": "christian-metal",
+          "name": "Christian Metal"
+        },
+        {
+          "id": "christian-hip-hop",
+          "name": "Christian Hip-Hop"
+        },
+        {
+          "id": "christian-pop",
+          "name": "Christian Pop"
+        },
+        {
+          "id": "contemporary-christian-music",
+          "name": "Contemporary Christian Music"
+        },
+        {
+          "id": "worship",
+          "name": "Worship"
+        },
+        {
+          "id": "praise-and-worship",
+          "name": "Praise and Worship"
+        },
+        {
+          "id": "ccm",
+          "name": "CCM"
+        },
+        {
+          "id": "christian-alternative",
+          "name": "Christian Alternative"
+        },
+        {
+          "id": "christian-punk",
+          "name": "Christian Punk"
+        },
+        {
+          "id": "christian-electronic",
+          "name": "Christian Electronic"
+        },
+        {
+          "id": "christian-country",
+          "name": "Christian Country"
+        },
+        {
+          "id": "hymns",
+          "name": "Hymns"
+        },
+        {
+          "id": "spirituals",
+          "name": "Spirituals"
+        },
+        {
+          "id": "sacred-harp",
+          "name": "Sacred Harp"
+        },
+        {
+          "id": "shape-note",
+          "name": "Shape Note"
+        },
+        {
+          "id": "gregorian-chant",
+          "name": "Gregorian Chant"
+        },
+        {
+          "id": "byzantine-chant",
+          "name": "Byzantine Chant"
+        },
+        {
+          "id": "orthodox-chant",
+          "name": "Orthodox Chant"
+        },
+        {
+          "id": "coptic-chant",
+          "name": "Coptic Chant"
+        },
+        {
+          "id": "ethiopian-orthodox-chant",
+          "name": "Ethiopian Orthodox Chant"
+        },
+        {
+          "id": "armenian-chant",
+          "name": "Armenian Chant"
+        },
+        {
+          "id": "anglican-chant",
+          "name": "Anglican Chant"
+        },
+        {
+          "id": "choral-sacred",
+          "name": "Choral Sacred"
+        },
+        {
+          "id": "liturgical-music",
+          "name": "Liturgical Music"
+        },
+        {
+          "id": "taize",
+          "name": "Taizé"
+        },
+        {
+          "id": "catholic-hymns",
+          "name": "Catholic Hymns"
+        },
+        {
+          "id": "latin-mass",
+          "name": "Latin Mass"
+        },
+        {
+          "id": "requiem",
+          "name": "Requiem"
+        },
+        {
+          "id": "islamic-nasheed",
+          "name": "Islamic Nasheed"
+        },
+        {
+          "id": "quranic-recitation",
+          "name": "Quranic Recitation"
+        },
+        {
+          "id": "qawwali",
+          "name": "Qawwali"
+        },
+        {
+          "id": "sufi-music",
+          "name": "Sufi Music"
+        },
+        {
+          "id": "dhikr",
+          "name": "Dhikr"
+        },
+        {
+          "id": "madih",
+          "name": "Madih"
+        },
+        {
+          "id": "tajweed",
+          "name": "Tajweed"
+        },
+        {
+          "id": "jewish-liturgical",
+          "name": "Jewish Liturgical"
+        },
+        {
+          "id": "hazzanut",
+          "name": "Hazzanut"
+        },
+        {
+          "id": "piyyut",
+          "name": "Piyyut"
+        },
+        {
+          "id": "nigunim",
+          "name": "Nigunim"
+        },
+        {
+          "id": "hasidic-pop",
+          "name": "Hasidic Pop"
+        },
+        {
+          "id": "jewish-rock",
+          "name": "Jewish Rock"
+        },
+        {
+          "id": "jewish-hip-hop",
+          "name": "Jewish Hip-Hop"
+        },
+        {
+          "id": "israeli-religious-music",
+          "name": "Israeli Religious Music"
+        },
+        {
+          "id": "hindu-devotional",
+          "name": "Hindu Devotional"
+        },
+        {
+          "id": "bhajan",
+          "name": "Bhajan"
+        },
+        {
+          "id": "kirtan",
+          "name": "Kirtan"
+        },
+        {
+          "id": "aarti",
+          "name": "Aarti"
+        },
+        {
+          "id": "shabad-kirtan",
+          "name": "Shabad Kirtan"
+        },
+        {
+          "id": "sikh-kirtan",
+          "name": "Sikh Kirtan"
+        },
+        {
+          "id": "buddhist-chant",
+          "name": "Buddhist Chant"
+        },
+        {
+          "id": "tibetan-buddhist-chant",
+          "name": "Tibetan Buddhist Chant"
+        },
+        {
+          "id": "zen-music",
+          "name": "Zen Music"
+        },
+        {
+          "id": "mantra",
+          "name": "Mantra"
+        },
+        {
+          "id": "vedic-chant",
+          "name": "Vedic Chant"
+        },
+        {
+          "id": "jain-stavan",
+          "name": "Jain Stavan"
+        },
+        {
+          "id": "baha-i-music",
+          "name": "Bahá'í Music"
+        },
+        {
+          "id": "pagan-music",
+          "name": "Pagan Music"
+        },
+        {
+          "id": "wicca-music",
+          "name": "Wicca Music"
+        },
+        {
+          "id": "druidic-music",
+          "name": "Druidic Music"
+        },
+        {
+          "id": "shamanic-music",
+          "name": "Shamanic Music"
+        },
+        {
+          "id": "native-american-music",
+          "name": "Native American Music"
+        },
+        {
+          "id": "powwow",
+          "name": "Powwow"
+        },
+        {
+          "id": "gospel-reggae",
+          "name": "Gospel Reggae"
+        },
+        {
+          "id": "gospel-house",
+          "name": "Gospel House"
+        },
+        {
+          "id": "gospel-trap",
+          "name": "Gospel Trap"
+        },
+        {
+          "id": "gospel-drill",
+          "name": "Gospel Drill"
+        },
+        {
+          "id": "afro-gospel",
+          "name": "Afro Gospel"
+        },
+        {
+          "id": "nigerian-gospel",
+          "name": "Nigerian Gospel"
+        },
+        {
+          "id": "ghanaian-gospel",
+          "name": "Ghanaian Gospel"
+        },
+        {
+          "id": "south-african-gospel",
+          "name": "South African Gospel"
+        },
+        {
+          "id": "kenyan-gospel",
+          "name": "Kenyan Gospel"
+        },
+        {
+          "id": "brazilian-gospel",
+          "name": "Brazilian Gospel"
+        },
+        {
+          "id": "musica-gospel",
+          "name": "Música Gospel"
+        },
+        {
+          "id": "latin-worship",
+          "name": "Latin Worship"
+        },
+        {
+          "id": "musica-cristiana",
+          "name": "Musica Cristiana"
+        },
+        {
+          "id": "reggaeton-cristiano",
+          "name": "Reggaeton Cristiano"
+        },
+        {
+          "id": "christian-urban",
+          "name": "Christian Urban"
+        },
+        {
+          "id": "mariachi-sacro",
+          "name": "Mariachi Sacro"
+        },
+        {
+          "id": "polka-mass",
+          "name": "Polka Mass"
+        },
+        {
+          "id": "christmas-music",
+          "name": "Christmas Music"
+        },
+        {
+          "id": "advent-music",
+          "name": "Advent Music"
+        },
+        {
+          "id": "easter-music",
+          "name": "Easter Music"
+        },
+        {
+          "id": "holiday-music",
+          "name": "Holiday Music"
+        },
+        {
+          "id": "carols",
+          "name": "Carols"
+        },
+        {
+          "id": "kwanzaa-music",
+          "name": "Kwanzaa Music"
+        },
+        {
+          "id": "hanukkah-music",
+          "name": "Hanukkah Music"
+        }
+      ]
+    },
+    {
+      "id": "easy-listening-lounge",
+      "name": "Easy Listening & Lounge",
+      "subgenres": [
+        {
+          "id": "easy-listening",
+          "name": "Easy Listening"
+        },
+        {
+          "id": "lounge",
+          "name": "Lounge"
+        },
+        {
+          "id": "exotica",
+          "name": "Exotica"
+        },
+        {
+          "id": "space-age-pop",
+          "name": "Space Age Pop"
+        },
+        {
+          "id": "muzak",
+          "name": "Muzak"
+        },
+        {
+          "id": "elevator-music",
+          "name": "Elevator Music"
+        },
+        {
+          "id": "background-music",
+          "name": "Background Music"
+        },
+        {
+          "id": "light-music",
+          "name": "Light Music"
+        },
+        {
+          "id": "mood-music",
+          "name": "Mood Music"
+        },
+        {
+          "id": "beautiful-music",
+          "name": "Beautiful Music"
+        },
+        {
+          "id": "adult-standards",
+          "name": "Adult Standards"
+        },
+        {
+          "id": "crooners",
+          "name": "Crooners"
+        },
+        {
+          "id": "vocal-pop",
+          "name": "Vocal Pop"
+        },
+        {
+          "id": "traditional-pop",
+          "name": "Traditional Pop"
+        },
+        {
+          "id": "great-american-songbook",
+          "name": "Great American Songbook"
+        },
+        {
+          "id": "swing-revival",
+          "name": "Swing Revival"
+        },
+        {
+          "id": "bossa-nova",
+          "name": "Bossa Nova"
+        },
+        {
+          "id": "samba-jazz",
+          "name": "Samba Jazz"
+        },
+        {
+          "id": "cocktail",
+          "name": "Cocktail"
+        },
+        {
+          "id": "tiki",
+          "name": "Tiki"
+        },
+        {
+          "id": "hawaiian",
+          "name": "Hawaiian"
+        },
+        {
+          "id": "slack-key",
+          "name": "Slack-Key"
+        },
+        {
+          "id": "hapa-haole",
+          "name": "Hapa Haole"
+        },
+        {
+          "id": "polynesian",
+          "name": "Polynesian"
+        },
+        {
+          "id": "surf-exotica",
+          "name": "Surf Exotica"
+        },
+        {
+          "id": "loungecore",
+          "name": "Loungecore"
+        },
+        {
+          "id": "chillout",
+          "name": "Chillout"
+        },
+        {
+          "id": "cafe-music",
+          "name": "Café Music"
+        },
+        {
+          "id": "hotel-lounge",
+          "name": "Hotel Lounge"
+        },
+        {
+          "id": "spa-music",
+          "name": "Spa Music"
+        },
+        {
+          "id": "relaxation",
+          "name": "Relaxation"
+        },
+        {
+          "id": "meditation",
+          "name": "Meditation"
+        },
+        {
+          "id": "yoga-music",
+          "name": "Yoga Music"
+        },
+        {
+          "id": "sleep-music",
+          "name": "Sleep Music"
+        },
+        {
+          "id": "nature-sounds",
+          "name": "Nature Sounds"
+        },
+        {
+          "id": "white-noise",
+          "name": "White Noise"
+        },
+        {
+          "id": "brown-noise",
+          "name": "Brown Noise"
+        },
+        {
+          "id": "binaural-beats",
+          "name": "Binaural Beats"
+        },
+        {
+          "id": "new-age",
+          "name": "New Age"
+        },
+        {
+          "id": "healing-music",
+          "name": "Healing Music"
+        },
+        {
+          "id": "sound-healing",
+          "name": "Sound Healing"
+        },
+        {
+          "id": "singing-bowls",
+          "name": "Singing Bowls"
+        },
+        {
+          "id": "soft-instrumental",
+          "name": "Soft Instrumental"
+        },
+        {
+          "id": "piano-bar",
+          "name": "Piano Bar"
+        },
+        {
+          "id": "smooth-jazz",
+          "name": "Smooth Jazz"
+        },
+        {
+          "id": "quiet-storm",
+          "name": "Quiet Storm"
+        },
+        {
+          "id": "yacht-rock",
+          "name": "Yacht Rock"
+        },
+        {
+          "id": "soft-rock",
+          "name": "Soft Rock"
+        },
+        {
+          "id": "adult-contemporary",
+          "name": "Adult Contemporary"
+        },
+        {
+          "id": "adult-album-alternative",
+          "name": "Adult Album Alternative"
+        },
+        {
+          "id": "acoustic-covers",
+          "name": "Acoustic Covers"
+        },
+        {
+          "id": "bar-jazz",
+          "name": "Bar Jazz"
+        },
+        {
+          "id": "dinner-jazz",
+          "name": "Dinner Jazz"
+        },
+        {
+          "id": "brunch-music",
+          "name": "Brunch Music"
+        },
+        {
+          "id": "study-music",
+          "name": "Study Music"
+        },
+        {
+          "id": "focus-music",
+          "name": "Focus Music"
+        },
+        {
+          "id": "lo-fi",
+          "name": "Lo-fi"
+        },
+        {
+          "id": "chillhop",
+          "name": "Chillhop"
+        },
+        {
+          "id": "coffee-shop-music",
+          "name": "Coffee Shop Music"
+        },
+        {
+          "id": "cozy-music",
+          "name": "Cozy Music"
+        },
+        {
+          "id": "rainy-day-music",
+          "name": "Rainy Day Music"
+        },
+        {
+          "id": "ambient-lounge",
+          "name": "Ambient Lounge"
+        },
+        {
+          "id": "downtempo-lounge",
+          "name": "Downtempo Lounge"
+        },
+        {
+          "id": "balearic-lounge",
+          "name": "Balearic Lounge"
+        },
+        {
+          "id": "ibiza-chill",
+          "name": "Ibiza Chill"
+        },
+        {
+          "id": "buddha-bar",
+          "name": "Buddha Bar"
+        },
+        {
+          "id": "hotel-costes",
+          "name": "Hôtel Costes"
+        },
+        {
+          "id": "nu-lounge",
+          "name": "Nu Lounge"
+        },
+        {
+          "id": "french-lounge",
+          "name": "French Lounge"
+        },
+        {
+          "id": "italian-lounge",
+          "name": "Italian Lounge"
+        },
+        {
+          "id": "brazilian-lounge",
+          "name": "Brazilian Lounge"
+        },
+        {
+          "id": "latin-lounge",
+          "name": "Latin Lounge"
+        },
+        {
+          "id": "arabic-lounge",
+          "name": "Arabic Lounge"
+        },
+        {
+          "id": "asian-lounge",
+          "name": "Asian Lounge"
+        },
+        {
+          "id": "oriental-lounge",
+          "name": "Oriental Lounge"
+        }
+      ]
+    },
+    {
+      "id": "experimental-avant-garde",
+      "name": "Experimental & Avant-Garde",
+      "subgenres": [
+        {
+          "id": "experimental",
+          "name": "Experimental"
+        },
+        {
+          "id": "avant-garde",
+          "name": "Avant-Garde"
+        },
+        {
+          "id": "noise",
+          "name": "Noise"
+        },
+        {
+          "id": "harsh-noise",
+          "name": "Harsh Noise"
+        },
+        {
+          "id": "japanoise",
+          "name": "Japanoise"
+        },
+        {
+          "id": "power-electronics",
+          "name": "Power Electronics"
+        },
+        {
+          "id": "musique-concrete",
+          "name": "Musique Concrète"
+        },
+        {
+          "id": "electroacoustic",
+          "name": "Electroacoustic"
+        },
+        {
+          "id": "sound-art",
+          "name": "Sound Art"
+        },
+        {
+          "id": "field-recording",
+          "name": "Field Recording"
+        },
+        {
+          "id": "soundscape",
+          "name": "Soundscape"
+        },
+        {
+          "id": "drone",
+          "name": "Drone"
+        },
+        {
+          "id": "dark-ambient",
+          "name": "Dark Ambient"
+        },
+        {
+          "id": "industrial",
+          "name": "Industrial"
+        },
+        {
+          "id": "post-industrial",
+          "name": "Post-Industrial"
+        },
+        {
+          "id": "death-industrial",
+          "name": "Death Industrial"
+        },
+        {
+          "id": "ritual-ambient",
+          "name": "Ritual Ambient"
+        },
+        {
+          "id": "noise-rock",
+          "name": "Noise Rock"
+        },
+        {
+          "id": "no-wave",
+          "name": "No Wave"
+        },
+        {
+          "id": "free-improvisation",
+          "name": "Free Improvisation"
+        },
+        {
+          "id": "free-jazz",
+          "name": "Free Jazz"
+        },
+        {
+          "id": "avant-prog",
+          "name": "Avant-Prog"
+        },
+        {
+          "id": "zeuhl",
+          "name": "Zeuhl"
+        },
+        {
+          "id": "rock-in-opposition",
+          "name": "Rock in Opposition"
+        },
+        {
+          "id": "krautrock",
+          "name": "Krautrock"
+        },
+        {
+          "id": "kosmische-musik",
+          "name": "Kosmische Musik"
+        },
+        {
+          "id": "space-music",
+          "name": "Space Music"
+        },
+        {
+          "id": "berlin-school",
+          "name": "Berlin School"
+        },
+        {
+          "id": "minimalism",
+          "name": "Minimalism"
+        },
+        {
+          "id": "microsound",
+          "name": "Microsound"
+        },
+        {
+          "id": "glitch",
+          "name": "Glitch"
+        },
+        {
+          "id": "lowercase",
+          "name": "Lowercase"
+        },
+        {
+          "id": "onkyo",
+          "name": "Onkyo"
+        },
+        {
+          "id": "reductionism",
+          "name": "Reductionism"
+        },
+        {
+          "id": "sound-poetry",
+          "name": "Sound Poetry"
+        },
+        {
+          "id": "spoken-word",
+          "name": "Spoken Word"
+        },
+        {
+          "id": "plunderphonics",
+          "name": "Plunderphonics"
+        },
+        {
+          "id": "tape-music",
+          "name": "Tape Music"
+        },
+        {
+          "id": "circuit-bending",
+          "name": "Circuit Bending"
+        },
+        {
+          "id": "lo-fi-experimental",
+          "name": "Lo-Fi Experimental"
+        },
+        {
+          "id": "outsider-music",
+          "name": "Outsider Music"
+        },
+        {
+          "id": "hauntology",
+          "name": "Hauntology"
+        },
+        {
+          "id": "hypnagogic-pop",
+          "name": "Hypnagogic Pop"
+        },
+        {
+          "id": "chillwave",
+          "name": "Chillwave"
+        },
+        {
+          "id": "vaporwave",
+          "name": "Vaporwave"
+        },
+        {
+          "id": "mallsoft",
+          "name": "Mallsoft"
+        },
+        {
+          "id": "dreampunk",
+          "name": "Dreampunk"
+        },
+        {
+          "id": "witch-house",
+          "name": "Witch House"
+        },
+        {
+          "id": "seapunk",
+          "name": "Seapunk"
+        },
+        {
+          "id": "pc-music",
+          "name": "PC Music"
+        },
+        {
+          "id": "deconstructed-club",
+          "name": "Deconstructed Club"
+        },
+        {
+          "id": "hyperpop",
+          "name": "Hyperpop"
+        },
+        {
+          "id": "digicore",
+          "name": "Digicore"
+        },
+        {
+          "id": "glitchcore",
+          "name": "Glitchcore"
+        },
+        {
+          "id": "nightcore",
+          "name": "Nightcore"
+        },
+        {
+          "id": "sped-up",
+          "name": "Sped Up"
+        },
+        {
+          "id": "slowed-and-reverb",
+          "name": "Slowed and Reverb"
+        },
+        {
+          "id": "bitpop",
+          "name": "Bitpop"
+        },
+        {
+          "id": "chiptune",
+          "name": "Chiptune"
+        },
+        {
+          "id": "8-bit",
+          "name": "8-bit"
+        },
+        {
+          "id": "video-game-music",
+          "name": "Video Game Music"
+        },
+        {
+          "id": "breakcore",
+          "name": "Breakcore"
+        },
+        {
+          "id": "speedcore",
+          "name": "Speedcore"
+        },
+        {
+          "id": "extratone",
+          "name": "Extratone"
+        },
+        {
+          "id": "splittercore",
+          "name": "Splittercore"
+        },
+        {
+          "id": "sound-collage",
+          "name": "Sound Collage"
+        },
+        {
+          "id": "tonal-experimental",
+          "name": "Tonal Experimental"
+        },
+        {
+          "id": "microtonal",
+          "name": "Microtonal"
+        },
+        {
+          "id": "just-intonation",
+          "name": "Just Intonation"
+        },
+        {
+          "id": "generative-music",
+          "name": "Generative Music"
+        },
+        {
+          "id": "algorithmic-music",
+          "name": "Algorithmic Music"
+        },
+        {
+          "id": "ai-music",
+          "name": "AI Music"
+        },
+        {
+          "id": "live-coding",
+          "name": "Live Coding"
+        },
+        {
+          "id": "algorave",
+          "name": "Algorave"
+        },
+        {
+          "id": "sonic-arts",
+          "name": "Sonic Arts"
+        },
+        {
+          "id": "acousmatic",
+          "name": "Acousmatic"
+        },
+        {
+          "id": "spectral",
+          "name": "Spectral"
+        },
+        {
+          "id": "stochastic",
+          "name": "Stochastic"
+        },
+        {
+          "id": "serial",
+          "name": "Serial"
+        },
+        {
+          "id": "aleatoric",
+          "name": "Aleatoric"
+        },
+        {
+          "id": "fluxus",
+          "name": "Fluxus"
+        },
+        {
+          "id": "happenings",
+          "name": "Happenings"
+        },
+        {
+          "id": "cage-ian",
+          "name": "Cage-ian"
+        },
+        {
+          "id": "improv",
+          "name": "Improv"
+        },
+        {
+          "id": "noise-improv",
+          "name": "Noise Improv"
+        },
+        {
+          "id": "electroacoustic-improv",
+          "name": "Electroacoustic Improv"
+        },
+        {
+          "id": "laptop-music",
+          "name": "Laptop Music"
+        },
+        {
+          "id": "sound-installation",
+          "name": "Sound Installation"
+        },
+        {
+          "id": "audio-drama",
+          "name": "Audio Drama"
+        },
+        {
+          "id": "radio-art",
+          "name": "Radio Art"
+        },
+        {
+          "id": "radiophonic",
+          "name": "Radiophonic"
+        },
+        {
+          "id": "sound-design",
+          "name": "Sound Design"
+        }
+      ]
+    },
+    {
+      "id": "world-regional-traditional",
+      "name": "World & Regional Traditional",
+      "subgenres": [
+        {
+          "id": "celtic",
+          "name": "Celtic"
+        },
+        {
+          "id": "gaelic",
+          "name": "Gaelic"
+        },
+        {
+          "id": "nordic",
+          "name": "Nordic"
+        },
+        {
+          "id": "sami-joik",
+          "name": "Sámi Joik"
+        },
+        {
+          "id": "finnish-folk",
+          "name": "Finnish Folk"
+        },
+        {
+          "id": "estonian-runic-song",
+          "name": "Estonian Runic Song"
+        },
+        {
+          "id": "latvian-dainas",
+          "name": "Latvian Dainas"
+        },
+        {
+          "id": "lithuanian-sutartines",
+          "name": "Lithuanian Sutartinės"
+        },
+        {
+          "id": "polish-folk",
+          "name": "Polish Folk"
+        },
+        {
+          "id": "czech-folk",
+          "name": "Czech Folk"
+        },
+        {
+          "id": "slovak-folk",
+          "name": "Slovak Folk"
+        },
+        {
+          "id": "hungarian-folk",
+          "name": "Hungarian Folk"
+        },
+        {
+          "id": "romanian-folk",
+          "name": "Romanian Folk"
+        },
+        {
+          "id": "bulgarian-folk",
+          "name": "Bulgarian Folk"
+        },
+        {
+          "id": "serbian-folk",
+          "name": "Serbian Folk"
+        },
+        {
+          "id": "croatian-klapa",
+          "name": "Croatian Klapa"
+        },
+        {
+          "id": "bosnian-sevdalinka",
+          "name": "Bosnian Sevdalinka"
+        },
+        {
+          "id": "albanian-folk",
+          "name": "Albanian Folk"
+        },
+        {
+          "id": "greek-folk",
+          "name": "Greek Folk"
+        },
+        {
+          "id": "rebetiko",
+          "name": "Rebetiko"
+        },
+        {
+          "id": "cretan-music",
+          "name": "Cretan Music"
+        },
+        {
+          "id": "cypriot-folk",
+          "name": "Cypriot Folk"
+        },
+        {
+          "id": "turkish-folk",
+          "name": "Turkish Folk"
+        },
+        {
+          "id": "italian-folk",
+          "name": "Italian Folk"
+        },
+        {
+          "id": "neapolitan",
+          "name": "Neapolitan"
+        },
+        {
+          "id": "sicilian-folk",
+          "name": "Sicilian Folk"
+        },
+        {
+          "id": "sardinian-canto-a-tenore",
+          "name": "Sardinian Canto a Tenore"
+        },
+        {
+          "id": "corsican-polyphony",
+          "name": "Corsican Polyphony"
+        },
+        {
+          "id": "occitan",
+          "name": "Occitan"
+        },
+        {
+          "id": "basque",
+          "name": "Basque"
+        },
+        {
+          "id": "galician",
+          "name": "Galician"
+        },
+        {
+          "id": "asturian",
+          "name": "Asturian"
+        },
+        {
+          "id": "catalan-canco",
+          "name": "Catalan Cançó"
+        },
+        {
+          "id": "portuguese-fado",
+          "name": "Portuguese Fado"
+        },
+        {
+          "id": "portuguese-folk",
+          "name": "Portuguese Folk"
+        },
+        {
+          "id": "spanish-folk",
+          "name": "Spanish Folk"
+        },
+        {
+          "id": "flamenco",
+          "name": "Flamenco"
+        },
+        {
+          "id": "french-folk",
+          "name": "French Folk"
+        },
+        {
+          "id": "breton",
+          "name": "Breton"
+        },
+        {
+          "id": "alsatian",
+          "name": "Alsatian"
+        },
+        {
+          "id": "corsican",
+          "name": "Corsican"
+        },
+        {
+          "id": "swiss-yodel",
+          "name": "Swiss Yodel"
+        },
+        {
+          "id": "alpine-folk",
+          "name": "Alpine Folk"
+        },
+        {
+          "id": "austrian-volksmusik",
+          "name": "Austrian Volksmusik"
+        },
+        {
+          "id": "german-volksmusik",
+          "name": "German Volksmusik"
+        },
+        {
+          "id": "dutch-levenslied",
+          "name": "Dutch Levenslied"
+        },
+        {
+          "id": "flemish-folk",
+          "name": "Flemish Folk"
+        },
+        {
+          "id": "belgian-folk",
+          "name": "Belgian Folk"
+        },
+        {
+          "id": "luxembourg-folk",
+          "name": "Luxembourg Folk"
+        },
+        {
+          "id": "british-folk",
+          "name": "British Folk"
+        },
+        {
+          "id": "english-folk",
+          "name": "English Folk"
+        },
+        {
+          "id": "morris",
+          "name": "Morris"
+        },
+        {
+          "id": "scottish-folk",
+          "name": "Scottish Folk"
+        },
+        {
+          "id": "pipe-band",
+          "name": "Pipe Band"
+        },
+        {
+          "id": "welsh-folk",
+          "name": "Welsh Folk"
+        },
+        {
+          "id": "cornish-folk",
+          "name": "Cornish Folk"
+        },
+        {
+          "id": "manx-folk",
+          "name": "Manx Folk"
+        },
+        {
+          "id": "irish-trad",
+          "name": "Irish Trad"
+        },
+        {
+          "id": "sean-nos",
+          "name": "Sean-nós"
+        },
+        {
+          "id": "ceilidh",
+          "name": "Ceilidh"
+        },
+        {
+          "id": "russian-romance",
+          "name": "Russian Romance"
+        },
+        {
+          "id": "russian-chanson",
+          "name": "Russian Chanson"
+        },
+        {
+          "id": "bard-song",
+          "name": "Bard Song"
+        },
+        {
+          "id": "ukrainian-folk",
+          "name": "Ukrainian Folk"
+        },
+        {
+          "id": "belarusian-folk",
+          "name": "Belarusian Folk"
+        },
+        {
+          "id": "caucasian-folk",
+          "name": "Caucasian Folk"
+        },
+        {
+          "id": "siberian-folk",
+          "name": "Siberian Folk"
+        },
+        {
+          "id": "central-asian-folk",
+          "name": "Central Asian Folk"
+        },
+        {
+          "id": "arctic-folk",
+          "name": "Arctic Folk"
+        },
+        {
+          "id": "inuit-throat-singing",
+          "name": "Inuit Throat Singing"
+        },
+        {
+          "id": "native-american",
+          "name": "Native American"
+        },
+        {
+          "id": "first-nations",
+          "name": "First Nations"
+        },
+        {
+          "id": "hawaiian",
+          "name": "Hawaiian"
+        },
+        {
+          "id": "maori",
+          "name": "Maori"
+        },
+        {
+          "id": "polynesian",
+          "name": "Polynesian"
+        },
+        {
+          "id": "melanesian",
+          "name": "Melanesian"
+        },
+        {
+          "id": "micronesian",
+          "name": "Micronesian"
+        },
+        {
+          "id": "aboriginal-australian",
+          "name": "Aboriginal Australian"
+        },
+        {
+          "id": "didgeridoo",
+          "name": "Didgeridoo"
+        },
+        {
+          "id": "pacific-islander",
+          "name": "Pacific Islander"
+        },
+        {
+          "id": "indonesian-gamelan",
+          "name": "Indonesian Gamelan"
+        },
+        {
+          "id": "filipino-kulintang",
+          "name": "Filipino Kulintang"
+        },
+        {
+          "id": "thai-classical",
+          "name": "Thai Classical"
+        },
+        {
+          "id": "vietnamese-traditional",
+          "name": "Vietnamese Traditional"
+        },
+        {
+          "id": "khmer-traditional",
+          "name": "Khmer Traditional"
+        },
+        {
+          "id": "burmese-traditional",
+          "name": "Burmese Traditional"
+        },
+        {
+          "id": "tibetan-traditional",
+          "name": "Tibetan Traditional"
+        },
+        {
+          "id": "mongolian-traditional",
+          "name": "Mongolian Traditional"
+        },
+        {
+          "id": "japanese-traditional",
+          "name": "Japanese Traditional"
+        },
+        {
+          "id": "korean-traditional",
+          "name": "Korean Traditional"
+        },
+        {
+          "id": "chinese-traditional",
+          "name": "Chinese Traditional"
+        },
+        {
+          "id": "indian-traditional",
+          "name": "Indian Traditional"
+        },
+        {
+          "id": "persian-traditional",
+          "name": "Persian Traditional"
+        },
+        {
+          "id": "arabic-traditional",
+          "name": "Arabic Traditional"
+        },
+        {
+          "id": "turkish-traditional",
+          "name": "Turkish Traditional"
+        },
+        {
+          "id": "african-traditional",
+          "name": "African Traditional"
+        },
+        {
+          "id": "latin-american-traditional",
+          "name": "Latin American Traditional"
+        },
+        {
+          "id": "caribbean-traditional",
+          "name": "Caribbean Traditional"
+        },
+        {
+          "id": "afro-brazilian",
+          "name": "Afro-Brazilian"
+        },
+        {
+          "id": "andean",
+          "name": "Andean"
+        },
+        {
+          "id": "amazonian",
+          "name": "Amazonian"
+        },
+        {
+          "id": "patagonian",
+          "name": "Patagonian"
+        },
+        {
+          "id": "gaucho",
+          "name": "Gaucho"
+        },
+        {
+          "id": "llanero",
+          "name": "Llanero"
+        },
+        {
+          "id": "mariachi",
+          "name": "Mariachi"
+        },
+        {
+          "id": "mexican-regional",
+          "name": "Mexican Regional"
+        },
+        {
+          "id": "cajun",
+          "name": "Cajun"
+        },
+        {
+          "id": "creole",
+          "name": "Creole"
+        },
+        {
+          "id": "zydeco",
+          "name": "Zydeco"
+        },
+        {
+          "id": "appalachian",
+          "name": "Appalachian"
+        },
+        {
+          "id": "ozark",
+          "name": "Ozark"
+        },
+        {
+          "id": "cowboy-songs",
+          "name": "Cowboy Songs"
+        },
+        {
+          "id": "sea-shanties",
+          "name": "Sea Shanties"
+        },
+        {
+          "id": "work-songs",
+          "name": "Work Songs"
+        },
+        {
+          "id": "field-hollers",
+          "name": "Field Hollers"
+        },
+        {
+          "id": "protest-songs",
+          "name": "Protest Songs"
+        },
+        {
+          "id": "lullabies",
+          "name": "Lullabies"
+        },
+        {
+          "id": "children-s-songs",
+          "name": "Children's Songs"
+        },
+        {
+          "id": "nursery-rhymes",
+          "name": "Nursery Rhymes"
+        }
+      ]
+    },
+    {
+      "id": "soundtrack-media",
+      "name": "Soundtrack & Media",
+      "subgenres": [
+        {
+          "id": "film-score",
+          "name": "Film Score"
+        },
+        {
+          "id": "television-music",
+          "name": "Television Music"
+        },
+        {
+          "id": "video-game-music",
+          "name": "Video Game Music"
+        },
+        {
+          "id": "anime-soundtrack",
+          "name": "Anime Soundtrack"
+        },
+        {
+          "id": "musical-theatre",
+          "name": "Musical Theatre"
+        },
+        {
+          "id": "broadway",
+          "name": "Broadway"
+        },
+        {
+          "id": "west-end",
+          "name": "West End"
+        },
+        {
+          "id": "cast-recording",
+          "name": "Cast Recording"
+        },
+        {
+          "id": "disney-music",
+          "name": "Disney Music"
+        },
+        {
+          "id": "children-s-music",
+          "name": "Children's Music"
+        },
+        {
+          "id": "kids-pop",
+          "name": "Kids Pop"
+        },
+        {
+          "id": "lullabies",
+          "name": "Lullabies"
+        },
+        {
+          "id": "educational-songs",
+          "name": "Educational Songs"
+        },
+        {
+          "id": "jingles",
+          "name": "Jingles"
+        },
+        {
+          "id": "advertising-music",
+          "name": "Advertising Music"
+        },
+        {
+          "id": "library-music",
+          "name": "Library Music"
+        },
+        {
+          "id": "production-music",
+          "name": "Production Music"
+        },
+        {
+          "id": "stock-music",
+          "name": "Stock Music"
+        },
+        {
+          "id": "trailer-music",
+          "name": "Trailer Music"
+        },
+        {
+          "id": "epic-music",
+          "name": "Epic Music"
+        },
+        {
+          "id": "cinematic",
+          "name": "Cinematic"
+        },
+        {
+          "id": "orchestral-score",
+          "name": "Orchestral Score"
+        },
+        {
+          "id": "synth-score",
+          "name": "Synth Score"
+        },
+        {
+          "id": "horror-score",
+          "name": "Horror Score"
+        },
+        {
+          "id": "spaghetti-western",
+          "name": "Spaghetti Western"
+        },
+        {
+          "id": "giallo",
+          "name": "Giallo"
+        },
+        {
+          "id": "blaxploitation",
+          "name": "Blaxploitation"
+        },
+        {
+          "id": "bollywood-soundtrack",
+          "name": "Bollywood Soundtrack"
+        },
+        {
+          "id": "nollywood-soundtrack",
+          "name": "Nollywood Soundtrack"
+        },
+        {
+          "id": "k-drama-ost",
+          "name": "K-Drama OST"
+        },
+        {
+          "id": "j-drama-theme",
+          "name": "J-Drama Theme"
+        },
+        {
+          "id": "tokusatsu",
+          "name": "Tokusatsu"
+        },
+        {
+          "id": "sentai-music",
+          "name": "Sentai Music"
+        },
+        {
+          "id": "mecha-anime-music",
+          "name": "Mecha Anime Music"
+        },
+        {
+          "id": "magical-girl-music",
+          "name": "Magical Girl Music"
+        },
+        {
+          "id": "idol-anime",
+          "name": "Idol Anime"
+        },
+        {
+          "id": "eurobeat-initial-d",
+          "name": "Eurobeat (Initial D)"
+        },
+        {
+          "id": "chiptune-game-music",
+          "name": "Chiptune Game Music"
+        },
+        {
+          "id": "fm-synth",
+          "name": "FM Synth"
+        },
+        {
+          "id": "midi-music",
+          "name": "MIDI Music"
+        },
+        {
+          "id": "tracker-music",
+          "name": "Tracker Music"
+        },
+        {
+          "id": "demoscene",
+          "name": "Demoscene"
+        },
+        {
+          "id": "orchestral-game",
+          "name": "Orchestral Game"
+        },
+        {
+          "id": "indie-game-ost",
+          "name": "Indie Game OST"
+        },
+        {
+          "id": "rhythm-game-music",
+          "name": "Rhythm Game Music"
+        },
+        {
+          "id": "touhou-arrange",
+          "name": "Touhou Arrange"
+        },
+        {
+          "id": "doujin-music",
+          "name": "Doujin Music"
+        },
+        {
+          "id": "vocaloid",
+          "name": "Vocaloid"
+        },
+        {
+          "id": "utau",
+          "name": "UTAU"
+        },
+        {
+          "id": "utaite",
+          "name": "Utaite"
+        },
+        {
+          "id": "fan-music",
+          "name": "Fan Music"
+        },
+        {
+          "id": "filk",
+          "name": "Filk"
+        },
+        {
+          "id": "nerdcore",
+          "name": "Nerdcore"
+        },
+        {
+          "id": "wizard-rock",
+          "name": "Wizard Rock"
+        },
+        {
+          "id": "geek-rock",
+          "name": "Geek Rock"
+        },
+        {
+          "id": "parody",
+          "name": "Parody"
+        },
+        {
+          "id": "comedy-music",
+          "name": "Comedy Music"
+        },
+        {
+          "id": "novelty",
+          "name": "Novelty"
+        },
+        {
+          "id": "weird-al",
+          "name": "Weird Al"
+        },
+        {
+          "id": "musical-comedy",
+          "name": "Musical Comedy"
+        },
+        {
+          "id": "cabaret",
+          "name": "Cabaret"
+        },
+        {
+          "id": "burlesque",
+          "name": "Burlesque"
+        },
+        {
+          "id": "vaudeville",
+          "name": "Vaudeville"
+        },
+        {
+          "id": "music-hall",
+          "name": "Music Hall"
+        },
+        {
+          "id": "revue",
+          "name": "Revue"
+        },
+        {
+          "id": "opera-parody",
+          "name": "Opera Parody"
+        },
+        {
+          "id": "satire-songs",
+          "name": "Satire Songs"
+        },
+        {
+          "id": "political-satire",
+          "name": "Political Satire"
+        },
+        {
+          "id": "drag-music",
+          "name": "Drag Music"
+        },
+        {
+          "id": "camp",
+          "name": "Camp"
+        },
+        {
+          "id": "show-tunes",
+          "name": "Show Tunes"
+        },
+        {
+          "id": "karaoke",
+          "name": "Karaoke"
+        },
+        {
+          "id": "tribute",
+          "name": "Tribute"
+        },
+        {
+          "id": "cover-band",
+          "name": "Cover Band"
+        },
+        {
+          "id": "mashups",
+          "name": "Mashups"
+        },
+        {
+          "id": "bootlegs",
+          "name": "Bootlegs"
+        },
+        {
+          "id": "remixes",
+          "name": "Remixes"
+        },
+        {
+          "id": "medleys",
+          "name": "Medleys"
+        }
+      ]
+    },
+    {
+      "id": "radio-formats",
+      "name": "Radio Formats",
+      "subgenres": [
+        {
+          "id": "top-40-chr",
+          "name": "Top 40 / CHR"
+        },
+        {
+          "id": "hot-ac",
+          "name": "Hot AC"
+        },
+        {
+          "id": "adult-contemporary",
+          "name": "Adult Contemporary"
+        },
+        {
+          "id": "soft-ac",
+          "name": "Soft AC"
+        },
+        {
+          "id": "mainstream-rock",
+          "name": "Mainstream Rock"
+        },
+        {
+          "id": "active-rock",
+          "name": "Active Rock"
+        },
+        {
+          "id": "classic-rock-radio",
+          "name": "Classic Rock Radio"
+        },
+        {
+          "id": "album-oriented-rock",
+          "name": "Album Oriented Rock"
+        },
+        {
+          "id": "modern-rock",
+          "name": "Modern Rock"
+        },
+        {
+          "id": "alternative-radio",
+          "name": "Alternative Radio"
+        },
+        {
+          "id": "urban-contemporary",
+          "name": "Urban Contemporary"
+        },
+        {
+          "id": "rhythmic-chr",
+          "name": "Rhythmic CHR"
+        },
+        {
+          "id": "urban-ac",
+          "name": "Urban AC"
+        },
+        {
+          "id": "classic-hip-hop-radio",
+          "name": "Classic Hip-Hop Radio"
+        },
+        {
+          "id": "classic-soul-radio",
+          "name": "Classic Soul Radio"
+        },
+        {
+          "id": "oldies",
+          "name": "Oldies"
+        },
+        {
+          "id": "golden-oldies",
+          "name": "Golden Oldies"
+        },
+        {
+          "id": "greatest-hits",
+          "name": "Greatest Hits"
+        },
+        {
+          "id": "classic-hits",
+          "name": "Classic Hits"
+        },
+        {
+          "id": "80s-radio",
+          "name": "80s Radio"
+        },
+        {
+          "id": "90s-radio",
+          "name": "90s Radio"
+        },
+        {
+          "id": "2000s-radio",
+          "name": "2000s Radio"
+        },
+        {
+          "id": "throwbacks",
+          "name": "Throwbacks"
+        },
+        {
+          "id": "smooth-jazz-radio",
+          "name": "Smooth Jazz Radio"
+        },
+        {
+          "id": "jazz-radio",
+          "name": "Jazz Radio"
+        },
+        {
+          "id": "blues-radio",
+          "name": "Blues Radio"
+        },
+        {
+          "id": "country-radio",
+          "name": "Country Radio"
+        },
+        {
+          "id": "classic-country-radio",
+          "name": "Classic Country Radio"
+        },
+        {
+          "id": "americana-radio",
+          "name": "Americana Radio"
+        },
+        {
+          "id": "bluegrass-radio",
+          "name": "Bluegrass Radio"
+        },
+        {
+          "id": "gospel-radio",
+          "name": "Gospel Radio"
+        },
+        {
+          "id": "christian-radio",
+          "name": "Christian Radio"
+        },
+        {
+          "id": "christian-hits",
+          "name": "Christian Hits"
+        },
+        {
+          "id": "latin-radio",
+          "name": "Latin Radio"
+        },
+        {
+          "id": "regional-mexican-radio",
+          "name": "Regional Mexican Radio"
+        },
+        {
+          "id": "tropical-radio",
+          "name": "Tropical Radio"
+        },
+        {
+          "id": "spanish-contemporary",
+          "name": "Spanish Contemporary"
+        },
+        {
+          "id": "spanish-adult-hits",
+          "name": "Spanish Adult Hits"
+        },
+        {
+          "id": "reggaeton-radio",
+          "name": "Reggaeton Radio"
+        },
+        {
+          "id": "bachata-radio",
+          "name": "Bachata Radio"
+        },
+        {
+          "id": "salsa-radio",
+          "name": "Salsa Radio"
+        },
+        {
+          "id": "brazilian-radio",
+          "name": "Brazilian Radio"
+        },
+        {
+          "id": "french-radio",
+          "name": "French Radio"
+        },
+        {
+          "id": "variete-francaise",
+          "name": "Variété Française"
+        },
+        {
+          "id": "chanson-francaise",
+          "name": "Chanson Française"
+        },
+        {
+          "id": "nrj-style",
+          "name": "NRJ Style"
+        },
+        {
+          "id": "hit-radio",
+          "name": "Hit Radio"
+        },
+        {
+          "id": "contemporary-hit-radio",
+          "name": "Contemporary Hit Radio"
+        },
+        {
+          "id": "dance-radio",
+          "name": "Dance Radio"
+        },
+        {
+          "id": "club-radio",
+          "name": "Club Radio"
+        },
+        {
+          "id": "edm-radio",
+          "name": "EDM Radio"
+        },
+        {
+          "id": "house-radio",
+          "name": "House Radio"
+        },
+        {
+          "id": "trance-radio",
+          "name": "Trance Radio"
+        },
+        {
+          "id": "techno-radio",
+          "name": "Techno Radio"
+        },
+        {
+          "id": "drum-and-bass-radio",
+          "name": "Drum and Bass Radio"
+        },
+        {
+          "id": "dubstep-radio",
+          "name": "Dubstep Radio"
+        },
+        {
+          "id": "chillout-radio",
+          "name": "Chillout Radio"
+        },
+        {
+          "id": "lounge-radio",
+          "name": "Lounge Radio"
+        },
+        {
+          "id": "ambient-radio",
+          "name": "Ambient Radio"
+        },
+        {
+          "id": "classical-radio",
+          "name": "Classical Radio"
+        },
+        {
+          "id": "opera-radio",
+          "name": "Opera Radio"
+        },
+        {
+          "id": "symphonic-radio",
+          "name": "Symphonic Radio"
+        },
+        {
+          "id": "early-music-radio",
+          "name": "Early Music Radio"
+        },
+        {
+          "id": "contemporary-classical-radio",
+          "name": "Contemporary Classical Radio"
+        },
+        {
+          "id": "world-music-radio",
+          "name": "World Music Radio"
+        },
+        {
+          "id": "folk-radio",
+          "name": "Folk Radio"
+        },
+        {
+          "id": "celtic-radio",
+          "name": "Celtic Radio"
+        },
+        {
+          "id": "reggae-radio",
+          "name": "Reggae Radio"
+        },
+        {
+          "id": "afrobeats-radio",
+          "name": "Afrobeats Radio"
+        },
+        {
+          "id": "african-radio",
+          "name": "African Radio"
+        },
+        {
+          "id": "bollywood-radio",
+          "name": "Bollywood Radio"
+        },
+        {
+          "id": "desi-radio",
+          "name": "Desi Radio"
+        },
+        {
+          "id": "k-pop-radio",
+          "name": "K-Pop Radio"
+        },
+        {
+          "id": "j-pop-radio",
+          "name": "J-Pop Radio"
+        },
+        {
+          "id": "arabic-radio",
+          "name": "Arabic Radio"
+        },
+        {
+          "id": "turkish-radio",
+          "name": "Turkish Radio"
+        },
+        {
+          "id": "persian-radio",
+          "name": "Persian Radio"
+        },
+        {
+          "id": "greek-radio",
+          "name": "Greek Radio"
+        },
+        {
+          "id": "russian-radio",
+          "name": "Russian Radio"
+        },
+        {
+          "id": "polish-radio",
+          "name": "Polish Radio"
+        },
+        {
+          "id": "german-schlager-radio",
+          "name": "German Schlager Radio"
+        },
+        {
+          "id": "volksmusik-radio",
+          "name": "Volksmusik Radio"
+        },
+        {
+          "id": "italian-radio",
+          "name": "Italian Radio"
+        },
+        {
+          "id": "dutch-radio",
+          "name": "Dutch Radio"
+        },
+        {
+          "id": "nordic-radio",
+          "name": "Nordic Radio"
+        },
+        {
+          "id": "easy-listening-radio",
+          "name": "Easy Listening Radio"
+        },
+        {
+          "id": "beautiful-music",
+          "name": "Beautiful Music"
+        },
+        {
+          "id": "bright-ac",
+          "name": "Bright AC"
+        },
+        {
+          "id": "adult-standards",
+          "name": "Adult Standards"
+        },
+        {
+          "id": "nostalgia",
+          "name": "Nostalgia"
+        },
+        {
+          "id": "big-band-radio",
+          "name": "Big Band Radio"
+        },
+        {
+          "id": "swing-radio",
+          "name": "Swing Radio"
+        },
+        {
+          "id": "crooners-radio",
+          "name": "Crooners Radio"
+        },
+        {
+          "id": "standards",
+          "name": "Standards"
+        },
+        {
+          "id": "variety-hits",
+          "name": "Variety Hits"
+        },
+        {
+          "id": "adult-hits",
+          "name": "Adult Hits"
+        },
+        {
+          "id": "jack-fm-style",
+          "name": "Jack FM Style"
+        },
+        {
+          "id": "bob-fm-style",
+          "name": "Bob FM Style"
+        },
+        {
+          "id": "free-form",
+          "name": "Free-form"
+        },
+        {
+          "id": "progressive-radio",
+          "name": "Progressive Radio"
+        },
+        {
+          "id": "college-radio",
+          "name": "College Radio"
+        },
+        {
+          "id": "community-radio",
+          "name": "Community Radio"
+        },
+        {
+          "id": "public-radio",
+          "name": "Public Radio"
+        },
+        {
+          "id": "campus-radio",
+          "name": "Campus Radio"
+        },
+        {
+          "id": "pirate-radio",
+          "name": "Pirate Radio"
+        },
+        {
+          "id": "internet-radio",
+          "name": "Internet Radio"
+        },
+        {
+          "id": "podcast-radio",
+          "name": "Podcast Radio"
+        },
+        {
+          "id": "talk-radio",
+          "name": "Talk Radio"
+        },
+        {
+          "id": "news-radio",
+          "name": "News Radio"
+        },
+        {
+          "id": "news-talk",
+          "name": "News Talk"
+        },
+        {
+          "id": "sports-talk",
+          "name": "Sports Talk"
+        },
+        {
+          "id": "sports-radio",
+          "name": "Sports Radio"
+        },
+        {
+          "id": "business-radio",
+          "name": "Business Radio"
+        },
+        {
+          "id": "financial-news",
+          "name": "Financial News"
+        },
+        {
+          "id": "weather-radio",
+          "name": "Weather Radio"
+        },
+        {
+          "id": "traffic-radio",
+          "name": "Traffic Radio"
+        },
+        {
+          "id": "public-affairs",
+          "name": "Public Affairs"
+        },
+        {
+          "id": "political-talk",
+          "name": "Political Talk"
+        },
+        {
+          "id": "conservative-talk",
+          "name": "Conservative Talk"
+        },
+        {
+          "id": "progressive-talk",
+          "name": "Progressive Talk"
+        },
+        {
+          "id": "religious-talk",
+          "name": "Religious Talk"
+        },
+        {
+          "id": "christian-talk",
+          "name": "Christian Talk"
+        },
+        {
+          "id": "catholic-talk",
+          "name": "Catholic Talk"
+        },
+        {
+          "id": "islamic-talk",
+          "name": "Islamic Talk"
+        },
+        {
+          "id": "comedy-radio",
+          "name": "Comedy Radio"
+        },
+        {
+          "id": "drama-radio",
+          "name": "Drama Radio"
+        },
+        {
+          "id": "radio-drama",
+          "name": "Radio Drama"
+        },
+        {
+          "id": "audiobooks-radio",
+          "name": "Audiobooks Radio"
+        },
+        {
+          "id": "old-time-radio",
+          "name": "Old-Time Radio"
+        },
+        {
+          "id": "children-s-radio",
+          "name": "Children's Radio"
+        },
+        {
+          "id": "kids-radio",
+          "name": "Kids Radio"
+        },
+        {
+          "id": "educational-radio",
+          "name": "Educational Radio"
+        },
+        {
+          "id": "language-learning-radio",
+          "name": "Language Learning Radio"
+        },
+        {
+          "id": "ethnic-radio",
+          "name": "Ethnic Radio"
+        },
+        {
+          "id": "multicultural-radio",
+          "name": "Multicultural Radio"
+        },
+        {
+          "id": "indigenous-radio",
+          "name": "Indigenous Radio"
+        },
+        {
+          "id": "tribal-radio",
+          "name": "Tribal Radio"
+        },
+        {
+          "id": "campus-talk",
+          "name": "Campus Talk"
+        },
+        {
+          "id": "student-radio",
+          "name": "Student Radio"
+        },
+        {
+          "id": "emergency-radio",
+          "name": "Emergency Radio"
+        },
+        {
+          "id": "shortwave-radio",
+          "name": "Shortwave Radio"
+        },
+        {
+          "id": "numbers-stations",
+          "name": "Numbers Stations"
+        },
+        {
+          "id": "ham-radio",
+          "name": "Ham Radio"
+        },
+        {
+          "id": "police-scanner",
+          "name": "Police Scanner"
+        },
+        {
+          "id": "aviation-radio",
+          "name": "Aviation Radio"
+        },
+        {
+          "id": "marine-radio",
+          "name": "Marine Radio"
+        },
+        {
+          "id": "ambient-soundscapes-radio",
+          "name": "Ambient Soundscapes Radio"
+        },
+        {
+          "id": "nature-sounds-radio",
+          "name": "Nature Sounds Radio"
+        },
+        {
+          "id": "sleep-radio",
+          "name": "Sleep Radio"
+        },
+        {
+          "id": "meditation-radio",
+          "name": "Meditation Radio"
+        },
+        {
+          "id": "workout-radio",
+          "name": "Workout Radio"
+        },
+        {
+          "id": "study-radio",
+          "name": "Study Radio"
+        },
+        {
+          "id": "focus-radio",
+          "name": "Focus Radio"
+        },
+        {
+          "id": "party-radio",
+          "name": "Party Radio"
+        },
+        {
+          "id": "wedding-radio",
+          "name": "Wedding Radio"
+        },
+        {
+          "id": "holiday-radio",
+          "name": "Holiday Radio"
+        },
+        {
+          "id": "christmas-radio",
+          "name": "Christmas Radio"
+        },
+        {
+          "id": "halloween-radio",
+          "name": "Halloween Radio"
+        },
+        {
+          "id": "seasonal-radio",
+          "name": "Seasonal Radio"
+        },
+        {
+          "id": "mood-radio",
+          "name": "Mood Radio"
+        },
+        {
+          "id": "activity-radio",
+          "name": "Activity Radio"
+        }
+      ]
+    }
+  ],
+  "total_categories": 24,
+  "total_subgenres": 1856
+}
