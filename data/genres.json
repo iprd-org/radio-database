@@ -60,6 +60,10 @@
           "name": "Rockabilly"
         },
         {
+          "id": "psychobilly",
+          "name": "Psychobilly"
+        },
+        {
           "id": "krautrock",
           "name": "Krautrock"
         },
@@ -562,6 +566,10 @@
         {
           "id": "bedroom-pop",
           "name": "Bedroom Pop"
+        },
+        { 
+          "id": "ballads", 
+          "name": "Ballads" 
         }
       ]
     },
@@ -828,6 +836,10 @@
           "name": "Disco"
         },
         {
+          "id": "discopolo",
+          "name": "Disco Polo"
+        },
+        {
           "id": "philly-soul",
           "name": "Philly Soul"
         },
@@ -874,6 +886,10 @@
         {
           "id": "retro-soul",
           "name": "Retro Soul"
+        },
+        {
+          "id": "doowop",
+          "name": "Doo-Wop"
         }
       ]
     },
@@ -1416,6 +1432,10 @@
         {
           "id": "trance-rock",
           "name": "Trance Rock"
+        },
+        {
+          "id": "hardbass",
+          "name": "Hardbass"
         }
       ]
     },
